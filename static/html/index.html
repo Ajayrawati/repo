@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie API Documentation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        code {
+            font-family: 'Courier New', Courier, monospace;
+            background-color: #f4f4f4;
+            padding: 2px 6px;
+        }
+        pre {
+            background-color: #f4f4f4;
+            padding: 10px;
+            border-radius: 5px;
+            overflow-x: auto;
+        }
+        ul {
+            list-style-type: none;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        .example {
+            background-color: #e6f7ff;
+            border: 1px solid #b3e0ff;
+            padding: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Movie API Documentation</h1>
+    <p>Welcome to the <strong>Movie API</strong>! This API allows you to fetch movie details and get a list of top 250 movies.</p>
+
+    <h2>Base URL</h2>
+    <p><code>https://movie-api-omega-three.vercel.app/</code></p>
+
+    <h2>Endpoints</h2>
+
+    <h3>1. Get Movie Details by Title</h3>
+    <p>Fetch detailed information about a movie by providing its title.</p>
+    <h4>URL:</h4>
+    <code>/api/movie/&lt;title&gt;</code>
+    <h4>URL Parameters:</h4>
+    <ul>
+        <li><strong>title:</strong> The title of the movie you want to search for. The title should be URL-encoded.</li>
+    </ul>
+    <h4>Response Format:</h4>
+    <p>The API will return a JSON response with movie details such as:</p>
+    <ul>
+        <li>Title</li>
+        <li>Year of release</li>
+        <li>Actors</li>
+        <li>A brief description</li>
+    </ul>
+    <h4>Example Request:</h4>
+    <p><code>GET https://movie-api-omega-three.vercel.app/api/movie/Inception</code></p>
+    <h4>Example Response:</h4>
+    <pre class="example">
+    [
+        {
+            "title": "Inception",
+            "year": "2010",
+            "actors": "Leonardo DiCaprio, Joseph Gordon-Levitt",
+            "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster."
+        }
+    ]
+    </pre>
+
+    <h3>2. Get Top 250 Movies</h3>
+    <p>Fetch a list of the top 250 movies based on IMDb rankings.</p>
+    <h4>URL:</h4>
+    <code>/api/movie/top250</code>
+    <h4>Response Format:</h4>
+    <p>The API will return a JSON response containing an array of top 250 movies, with each movie's title, year of release, actors, and a brief description.</p>
+    <h4>Example Request:</h4>
+    <p><code>GET https://movie-api-omega-three.vercel.app/api/movie/top250</code></p>
+    <h4>Example Response:</h4>
+    <pre class="example">
+    [
+        {
+            "title": "The Shawshank Redemption",
+            "year": "1994",
+            "actors": "Tim Robbins, Morgan Freeman",
+            "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+        },
+        {
+            "title": "The Godfather",
+            "year": "1972",
+            "actors": "Marlon Brando, Al Pacino",
+            "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+        }
+    ]
+    </pre>
+
+    <h3>3. Get Top 250 Horror Movies</h3>
+    <p>Fetch a list of the top 250 horror movies based on IMDb rankings.</p>
+    <h4>URL:</h4>
+    <code>/api/movie/horrer250</code>
+    <h4>Response Format:</h4>
+    <p>The API will return a JSON response containing an array of top 250 horror movies, with each movie's title, year of release, actors, and a brief description.</p>
+    <h4>Example Request:</h4>
+    <p><code>GET https://movie-api-omega-three.vercel.app/api/movie/horrer250</code></p>
+    <h4>Example Response:</h4>
+    <pre class="example">
+    [
+        {
+            "title": "1. Halloween",
+            "url": "https://www.imdb.com/title/tt0077651/",
+            "description": {
+                "@type": "Movie",
+                "name": "Halloween",
+                "description": "Fifteen years after murdering his sister on Halloween night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois, to kill again.",
+                "aggregateRating": {
+                    "ratingValue": 7.7
+                },
+                "genre": [
+                    "Horror",
+                    "Thriller"
+                ],
+                "datePublished": "1979-12-10",
+                "director": [
+                    {
+                        "name": "John Carpenter"
+                    }
+                ]
+            }
+        },
+        {
+            "title": "2. The Shining",
+            "url": "https://www.imdb.com/title/tt0081505/",
+            "description": {
+                "@type": "Movie",
+                "name": "The Shining",
+                "description": "A family heads to an isolated hotel for the winter, where a sinister presence influences the father into violence. At the same time, his psychic son sees horrifying forebodings from both the past and the future.",
+                "aggregateRating": {
+                    "ratingValue": 8.4
+                },
+                "genre": [
+                    "Drama",
+                    "Horror"
+                ],
+                "datePublished": "2017-10-04",
+                "director": [
+                    {
+                        "name": "Stanley Kubrick"
+                    }
+                ]
+            }
+        }
+    ]
+    </pre>
+
+    <h2>License</h2>
+    <p>This API is open source and available for personal or commercial use. Feel free to contribute or modify it as needed.</p>
+
+    <h2>How to Contribute</h2>
+    <p>If you'd like to contribute to this API, you can fork the repository, make your changes, and submit a pull request. Please ensure your code is well-documented and follows the project's coding style.</p>
+
+</body>
+</html>

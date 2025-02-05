@@ -1,0 +1,5651 @@
+[
+    {
+        "title": "1. Halloween",
+        "url": "https://www.imdb.com/title/tt0077651/",
+        "description": {
+            "@type": "Movie",
+            "name": "Halloween",
+            "description": "Fifteen years after murdering his sister on Halloween night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois, to kill again.",
+            "aggregateRating": {
+                "ratingValue": 7.7
+            },
+            "genre": [
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": "1979-12-10",
+            "director": [
+                {
+                    "name": "John Carpenter"
+                }
+            ]
+        }
+    },
+    {
+        "title": "2. The Shining",
+        "url": "https://www.imdb.com/title/tt0081505/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Shining",
+            "description": "A family heads to an isolated hotel for the winter, where a sinister presence influences the father into violence. At the same time, his psychic son sees horrifying forebodings from both the past and the future.",
+            "aggregateRating": {
+                "ratingValue": 8.4
+            },
+            "genre": [
+                "Drama",
+                "Horror"
+            ],
+            "datePublished": "2017-10-04",
+            "director": [
+                {
+                    "name": "Stanley Kubrick"
+                }
+            ]
+        }
+    },
+    {
+        "title": "3. Carrie",
+        "url": "https://www.imdb.com/title/tt0074285/",
+        "description": {
+            "@type": "Movie",
+            "name": "Carrie",
+            "description": "Carrie White, a shy, friendless teenage girl who is sheltered by her domineering, religious mother, unleashes her telekinetic powers after being humiliated by her classmates at her senior prom.",
+            "aggregateRating": {
+                "ratingValue": 7.4
+            },
+            "genre": [
+                "Horror",
+                "Mystery"
+            ],
+            "datePublished": "1976-11-16",
+            "director": [
+                {
+                    "name": "Brian De Palma"
+                }
+            ]
+        }
+    },
+    {
+        "title": "4. Jaws",
+        "url": "https://www.imdb.com/title/tt0073195/",
+        "description": {
+            "@type": "Movie",
+            "name": "Jaws",
+            "description": "When a massive killer shark unleashes chaos on a beach community off Long Island, it&apos;s up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.",
+            "aggregateRating": {
+                "ratingValue": 8.1
+            },
+            "genre": [
+                "Adventure",
+                "Drama",
+                "Horror"
+            ],
+            "datePublished": "1975-12-26",
+            "director": [
+                {
+                    "name": "Steven Spielberg"
+                }
+            ]
+        }
+    },
+    {
+        "title": "5. The Exorcist",
+        "url": "https://www.imdb.com/title/tt0070047/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Exorcist",
+            "description": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.",
+            "aggregateRating": {
+                "ratingValue": 8.1
+            },
+            "genre": [
+                "Horror"
+            ],
+            "datePublished": "1977-08-27",
+            "director": [
+                {
+                    "name": "William Friedkin"
+                }
+            ]
+        }
+    },
+    {
+        "title": "6. Poltergeist",
+        "url": "https://www.imdb.com/title/tt0084516/",
+        "description": {
+            "@type": "Movie",
+            "name": "Poltergeist",
+            "description": "A family&apos;s home becomes the center of paranormal activity that opens a doorway to the &quot;other side.&quot; With help, they must cross over to get their daughter back.",
+            "aggregateRating": {
+                "ratingValue": 7.3
+            },
+            "genre": [
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": "1982-06-04",
+            "director": [
+                {
+                    "name": "Tobe Hooper"
+                }
+            ]
+        }
+    },
+    {
+        "title": "7. The Texas Chain Saw Massacre",
+        "url": "https://www.imdb.com/title/tt0072271/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Texas Chain Saw Massacre",
+            "description": "Five friends head out to rural Texas to visit the grave of a grandfather. On the way they stumble across what appears to be a deserted house, only to discover something sinister within. Something armed with a chainsaw.",
+            "aggregateRating": {
+                "ratingValue": 7.4
+            },
+            "genre": [
+                "Horror"
+            ],
+            "datePublished": "1974-10-11",
+            "director": [
+                {
+                    "name": "Tobe Hooper"
+                }
+            ]
+        }
+    },
+    {
+        "title": "8. Alien",
+        "url": "https://www.imdb.com/title/tt0078748/",
+        "description": {
+            "@type": "Movie",
+            "name": "Alien",
+            "description": "After investigating a mysterious transmission of unknown origin, the crew of a commercial spacecraft encounters a deadly lifeform.",
+            "aggregateRating": {
+                "ratingValue": 8.5
+            },
+            "genre": [
+                "Horror",
+                "Sci-Fi"
+            ],
+            "datePublished": "1979-12-06",
+            "director": [
+                {
+                    "name": "Ridley Scott"
+                }
+            ]
+        }
+    },
+    {
+        "title": "9. Cape Fear",
+        "url": "https://www.imdb.com/title/tt0101540/",
+        "description": {
+            "@type": "Movie",
+            "name": "Cape Fear",
+            "description": "A convicted rapist, released from prison after serving a fourteen-year sentence, stalks the family of the lawyer who originally defended him.",
+            "aggregateRating": {
+                "ratingValue": 7.3
+            },
+            "genre": [
+                "Crime",
+                "Thriller"
+            ],
+            "datePublished": "1991-11-15",
+            "director": [
+                {
+                    "name": "Martin Scorsese"
+                }
+            ]
+        }
+    },
+    {
+        "title": "10. Psycho",
+        "url": "https://www.imdb.com/title/tt0054215/",
+        "description": {
+            "@type": "Movie",
+            "name": "Psycho",
+            "description": "A secretary on the run for embezzlement takes refuge at a secluded California motel owned by a repressed man and his overbearing mother.",
+            "aggregateRating": {
+                "ratingValue": 8.5
+            },
+            "genre": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "datePublished": "2020-05-24",
+            "director": [
+                {
+                    "name": "Alfred Hitchcock"
+                }
+            ]
+        }
+    },
+    {
+        "title": "11. Friday the 13th",
+        "url": "https://www.imdb.com/title/tt0080761/",
+        "description": {
+            "@type": "Movie",
+            "name": "Friday the 13th",
+            "description": "A group of teenage camp counselors attempt to re-open an abandoned summer camp with a tragic past, but they are stalked by a mysterious, relentless killer.",
+            "aggregateRating": {
+                "ratingValue": 6.4
+            },
+            "genre": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "datePublished": "1980-07-13",
+            "director": [
+                {
+                    "name": "Sean S. Cunningham"
+                }
+            ]
+        }
+    },
+    {
+        "title": "12. Predator",
+        "url": "https://www.imdb.com/title/tt0093773/",
+        "description": {
+            "@type": "Movie",
+            "name": "Predator",
+            "description": "A team of commandos on a mission in a Central American jungle find themselves hunted by an extraterrestrial warrior.",
+            "aggregateRating": {
+                "ratingValue": 7.8
+            },
+            "genre": [
+                "Action",
+                "Adventure",
+                "Horror"
+            ],
+            "datePublished": "1988-11-23",
+            "director": [
+                {
+                    "name": "John McTiernan"
+                }
+            ]
+        }
+    },
+    {
+        "title": "13. It",
+        "url": "https://www.imdb.com/title/tt0099864/",
+        "description": {
+            "@type": "TVSeries",
+            "name": "It",
+            "description": "In 1960, seven pre-teen outcasts fight an evil demon who poses as a child-killing clown. Thirty years later, they reunite to stop the demon once and for all when it returns to their hometown.",
+            "aggregateRating": {
+                "ratingValue": 6.8
+            },
+            "genre": [
+                "Drama",
+                "Horror",
+                "Mystery"
+            ],
+            "datePublished": "1990-11-18",
+            "director": []
+        }
+    },
+    {
+        "title": "14. The Thing",
+        "url": "https://www.imdb.com/title/tt0084787/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Thing",
+            "description": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+            "aggregateRating": {
+                "ratingValue": 8.2
+            },
+            "genre": [
+                "Horror",
+                "Mystery",
+                "Sci-Fi"
+            ],
+            "datePublished": "1982-12-10",
+            "director": [
+                {
+                    "name": "John Carpenter"
+                }
+            ]
+        }
+    },
+    {
+        "title": "15. Night of the Living Dead",
+        "url": "https://www.imdb.com/title/tt0063350/",
+        "description": {
+            "@type": "Movie",
+            "name": "Night of the Living Dead",
+            "description": "A ragtag group of Pennsylvanians barricade themselves in an old farmhouse to remain safe from a horde of flesh-eating ghouls that are ravaging the Northeast of the United States.",
+            "aggregateRating": {
+                "ratingValue": 7.8
+            },
+            "genre": [
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": "1969-12-10",
+            "director": [
+                {
+                    "name": "George A. Romero"
+                }
+            ]
+        }
+    },
+    {
+        "title": "16. Gremlins",
+        "url": "https://www.imdb.com/title/tt0087363/",
+        "description": {
+            "@type": "Movie",
+            "name": "Gremlins",
+            "description": "A young man inadvertently breaks three important rules concerning his new pet and unleashes a horde of malevolently mischievous monsters on a small town.",
+            "aggregateRating": {
+                "ratingValue": 7.3
+            },
+            "genre": [
+                "Comedy",
+                "Fantasy",
+                "Horror"
+            ],
+            "datePublished": "1985-08-29",
+            "director": [
+                {
+                    "name": "Joe Dante"
+                }
+            ]
+        }
+    },
+    {
+        "title": "17. The Evil Dead",
+        "url": "https://www.imdb.com/title/tt0083907/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Evil Dead",
+            "description": "Five friends travel to a cabin in the woods, where they unknowingly release flesh-possessing demons.",
+            "aggregateRating": {
+                "ratingValue": 7.4
+            },
+            "genre": [
+                "Horror"
+            ],
+            "datePublished": "1984-01-02",
+            "director": [
+                {
+                    "name": "Sam Raimi"
+                }
+            ]
+        }
+    },
+    {
+        "title": "18. The Sixth Sense",
+        "url": "https://www.imdb.com/title/tt0167404/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Sixth Sense",
+            "description": "After being shot by a resentful former patient whom he failed to help, a Philadelphia child psychologist seeks redemption by treating a young boy with a disturbing secret.",
+            "aggregateRating": {
+                "ratingValue": 8.2
+            },
+            "genre": [
+                "Drama",
+                "Mystery",
+                "Thriller"
+            ],
+            "datePublished": "2019-05-21",
+            "director": [
+                {
+                    "name": "M. Night Shyamalan"
+                }
+            ]
+        }
+    },
+    {
+        "title": "19. A Nightmare on Elm Street",
+        "url": "https://www.imdb.com/title/tt0087800/",
+        "description": {
+            "@type": "Movie",
+            "name": "A Nightmare on Elm Street",
+            "description": "Teenager Nancy Thompson must uncover the dark truth concealed by her parents after she and her friends become targets of the spirit of a serial killer with a bladed glove in their dreams, in which if they die, it kills them in rea...",
+            "aggregateRating": {
+                "ratingValue": 7.4
+            },
+            "genre": [
+                "Horror"
+            ],
+            "datePublished": null,
+            "director": [
+                {
+                    "name": "Wes Craven"
+                }
+            ]
+        }
+    },
+    {
+        "title": "20. The Birds",
+        "url": "https://www.imdb.com/title/tt0056869/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Birds",
+            "description": "A wealthy San Francisco socialite pursues a potential boyfriend to a small Northern California town that slowly takes a turn for the bizarre when birds of all kinds suddenly begin to attack people.",
+            "aggregateRating": {
+                "ratingValue": 7.6
+            },
+            "genre": [
+                "Drama",
+                "Horror",
+                "Mystery"
+            ],
+            "datePublished": "2013-11-06",
+            "director": [
+                {
+                    "name": "Alfred Hitchcock"
+                }
+            ]
+        }
+    },
+    {
+        "title": "21. It",
+        "url": "https://www.imdb.com/title/tt1396484/",
+        "description": {
+            "@type": "Movie",
+            "name": "It",
+            "description": "In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town.",
+            "aggregateRating": {
+                "ratingValue": 7.3
+            },
+            "genre": [
+                "Horror"
+            ],
+            "datePublished": "2017-09-08",
+            "director": [
+                {
+                    "name": "Andy Muschietti"
+                }
+            ]
+        }
+    },
+    {
+        "title": "22. Army of Darkness",
+        "url": "https://www.imdb.com/title/tt0106308/",
+        "description": {
+            "@type": "Movie",
+            "name": "Army of Darkness",
+            "description": "When Ash Williams is accidentally transported to 1300 A.D., he must retrieve the Necronomicon and battle an army of the dead in order to return home.",
+            "aggregateRating": {
+                "ratingValue": 7.4
+            },
+            "genre": [
+                "Comedy",
+                "Horror"
+            ],
+            "datePublished": "1993-06-11",
+            "director": [
+                {
+                    "name": "Sam Raimi"
+                }
+            ]
+        }
+    },
+    {
+        "title": "23. The Omen",
+        "url": "https://www.imdb.com/title/tt0075005/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Omen",
+            "description": "Mysterious deaths surround an American ambassador. Could the child that he is raising actually be the Antichrist? The Devil&apos;s own son?",
+            "aggregateRating": {
+                "ratingValue": 7.5
+            },
+            "genre": [
+                "Horror",
+                "Mystery"
+            ],
+            "datePublished": "1976-06-25",
+            "director": [
+                {
+                    "name": "Richard Donner"
+                }
+            ]
+        }
+    },
+    {
+        "title": "24. Saw",
+        "url": "https://www.imdb.com/title/tt0387564/",
+        "description": {
+            "@type": "Movie",
+            "name": "Saw",
+            "description": "Two men awaken to find themselves on the opposite sides of a dead body, each with specific instructions to kill the other or face consequences. These two are the latest victims of the Jigsaw Killer.",
+            "aggregateRating": {
+                "ratingValue": 7.6
+            },
+            "genre": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "datePublished": "2021-12-21",
+            "director": [
+                {
+                    "name": "James Wan"
+                }
+            ]
+        }
+    },
+    {
+        "title": "25. Rosemary's Baby",
+        "url": "https://www.imdb.com/title/tt0063522/",
+        "description": {
+            "@type": "Movie",
+            "name": "Rosemary&apos;s Baby",
+            "description": "A young couple trying for a baby moves into an aging, ornate apartment building on Central Park West, where they find themselves surrounded by peculiar neighbors.",
+            "aggregateRating": {
+                "ratingValue": 8
+            },
+            "genre": [
+                "Drama",
+                "Horror"
+            ],
+            "datePublished": "2021-02-01",
+            "director": [
+                {
+                    "name": "Roman Polanski"
+                }
+            ]
+        }
+    },
+    {
+        "title": "26. Twilight Zone: The Movie",
+        "url": "https://www.imdb.com/title/tt0086491/",
+        "description": {
+            "@type": "Movie",
+            "name": "Twilight Zone: The Movie",
+            "description": "Four horror and science fiction segments, directed by four famous directors, each of them being a new version of a classic story from Rod Serling&apos;s landmark television series.",
+            "aggregateRating": {
+                "ratingValue": 6.4
+            },
+            "genre": [
+                "Horror",
+                "Sci-Fi"
+            ],
+            "datePublished": "1983-06-24",
+            "director": [
+                {
+                    "name": "Joe Dante"
+                },
+                {
+                    "name": "John Landis"
+                },
+                {
+                    "name": "George Miller"
+                }
+            ]
+        }
+    },
+    {
+        "title": "27. They Live",
+        "url": "https://www.imdb.com/title/tt0096256/",
+        "description": {
+            "@type": "Movie",
+            "name": "They Live",
+            "description": "They influence our decisions without us knowing it. They numb our senses without us feeling it. They control our lives without us realizing it. They live.",
+            "aggregateRating": {
+                "ratingValue": 7.2
+            },
+            "genre": [
+                "Action",
+                "Horror",
+                "Sci-Fi"
+            ],
+            "datePublished": "1988-11-04",
+            "director": [
+                {
+                    "name": "John Carpenter"
+                }
+            ]
+        }
+    },
+    {
+        "title": "28. Misery",
+        "url": "https://www.imdb.com/title/tt0100157/",
+        "description": {
+            "@type": "Movie",
+            "name": "Misery",
+            "description": "After a famous author is rescued from a car crash by a fan of his novels, he comes to realize that the care he is receiving is only the beginning of a nightmare of captivity and abuse.",
+            "aggregateRating": {
+                "ratingValue": 7.8
+            },
+            "genre": [
+                "Drama",
+                "Thriller"
+            ],
+            "datePublished": "1990-11-30",
+            "director": [
+                {
+                    "name": "Rob Reiner"
+                }
+            ]
+        }
+    },
+    {
+        "title": "29. The Mist",
+        "url": "https://www.imdb.com/title/tt0884328/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Mist",
+            "description": "After a massive thunderstorm, an eerie, unwavering fog descends upon a Maine community. Locals seek refuge in a grocery store from the monstrous creatures now roaming the countryside killing everyone they encounter.",
+            "aggregateRating": {
+                "ratingValue": 7.1
+            },
+            "genre": [
+                "Horror",
+                "Sci-Fi",
+                "Thriller"
+            ],
+            "datePublished": "2007-11-21",
+            "director": [
+                {
+                    "name": "Frank Darabont"
+                }
+            ]
+        }
+    },
+    {
+        "title": "30. Dawn of the Dead",
+        "url": "https://www.imdb.com/title/tt0077402/",
+        "description": {
+            "@type": "Movie",
+            "name": "Dawn of the Dead",
+            "description": "During an escalating zombie epidemic, two Philadelphia SWAT team members, a traffic reporter and his TV executive girlfriend seek refuge in a secluded shopping mall.",
+            "aggregateRating": {
+                "ratingValue": 7.8
+            },
+            "genre": [
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": "1979-12-06",
+            "director": [
+                {
+                    "name": "George A. Romero"
+                }
+            ]
+        }
+    },
+    {
+        "title": "31. Child's Play",
+        "url": "https://www.imdb.com/title/tt0094862/",
+        "description": {
+            "@type": "Movie",
+            "name": "Child&apos;s Play",
+            "description": "A dying serial killer transfers his consciousness into a popular kids doll using voodoo. A struggling single mother gifts her six-year-old son the much sought-after doll for his birthday, and the doll slowly begins to show its tru...",
+            "aggregateRating": {
+                "ratingValue": 6.7
+            },
+            "genre": [
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": null,
+            "director": [
+                {
+                    "name": "Tom Holland"
+                }
+            ]
+        }
+    },
+    {
+        "title": "32. Pet Sematary",
+        "url": "https://www.imdb.com/title/tt0098084/",
+        "description": {
+            "@type": "Movie",
+            "name": "Pet Sematary",
+            "description": "After tragedy strikes, a grieving father discovers an ancient burial ground behind his home with the power to raise the dead.",
+            "aggregateRating": {
+                "ratingValue": 6.5
+            },
+            "genre": [
+                "Fantasy",
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": "2020-06-10",
+            "director": [
+                {
+                    "name": "Mary Lambert"
+                }
+            ]
+        }
+    },
+    {
+        "title": "33. Fire in the Sky",
+        "url": "https://www.imdb.com/title/tt0106912/",
+        "description": {
+            "@type": "Movie",
+            "name": "Fire in the Sky",
+            "description": "An Arizona logger mysteriously disappears for five days in an alleged encounter with a flying saucer in 1975. His co-workers endure ridicule and contempt as they are wrongly accused of murder.",
+            "aggregateRating": {
+                "ratingValue": 6.5
+            },
+            "genre": [
+                "Biography",
+                "Drama",
+                "Fantasy"
+            ],
+            "datePublished": "1993-03-12",
+            "director": [
+                {
+                    "name": "Robert Lieberman"
+                }
+            ]
+        }
+    },
+    {
+        "title": "34. Pan's Labyrinth",
+        "url": "https://www.imdb.com/title/tt0457430/",
+        "description": {
+            "@type": "Movie",
+            "name": "El laberinto del fauno",
+            "description": "In 1944 Spain, a girl is sent to live with her ruthless stepfather. During the night, she meets a fairy who takes her to an old faun. He tells her she&apos;s a princess, but must prove her royalty by surviving three gruesome tasks.",
+            "aggregateRating": {
+                "ratingValue": 8.2
+            },
+            "genre": [
+                "Drama",
+                "Fantasy",
+                "War"
+            ],
+            "datePublished": "2018-08-06",
+            "director": [
+                {
+                    "name": "Guillermo del Toro"
+                }
+            ]
+        }
+    },
+    {
+        "title": "35. The Amityville Horror",
+        "url": "https://www.imdb.com/title/tt0078767/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Amityville Horror",
+            "description": "Newlyweds and their children battle a demonic presence in their home.",
+            "aggregateRating": {
+                "ratingValue": 6.2
+            },
+            "genre": [
+                "Horror"
+            ],
+            "datePublished": "1979-07-27",
+            "director": [
+                {
+                    "name": "Stuart Rosenberg"
+                }
+            ]
+        }
+    },
+    {
+        "title": "36. The Devil's Rejects",
+        "url": "https://www.imdb.com/title/tt0395584/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Devil&apos;s Rejects",
+            "description": "The murderous, backwoods Firefly family take to the road to escape the vengeful Sheriff Wydell, who is not afraid of being as ruthless as his target.",
+            "aggregateRating": {
+                "ratingValue": 6.7
+            },
+            "genre": [
+                "Crime",
+                "Drama",
+                "Horror"
+            ],
+            "datePublished": "2005-07-22",
+            "director": [
+                {
+                    "name": "Rob Zombie"
+                }
+            ]
+        }
+    },
+    {
+        "title": "37. Bram Stoker's Dracula",
+        "url": "https://www.imdb.com/title/tt0103874/",
+        "description": {
+            "@type": "Movie",
+            "name": "Bram Stoker&apos;s Dracula",
+            "description": "The centuries old vampire Count Dracula comes to England to seduce his barrister Jonathan Harker&apos;s fianc\u00e9e Mina Murray and inflict havoc in the foreign land.",
+            "aggregateRating": {
+                "ratingValue": 7.4
+            },
+            "genre": [
+                "Fantasy",
+                "Horror",
+                "Romance"
+            ],
+            "datePublished": "2018-03-16",
+            "director": [
+                {
+                    "name": "Francis Ford Coppola"
+                }
+            ]
+        }
+    },
+    {
+        "title": "38. Planet Terror",
+        "url": "https://www.imdb.com/title/tt1077258/",
+        "description": {
+            "@type": "Movie",
+            "name": "Planet Terror",
+            "description": "After an experimental bio-weapon is released, turning thousands into zombie-like creatures, it&apos;s up to a rag-tag group of survivors to stop the infected and those behind its release.",
+            "aggregateRating": {
+                "ratingValue": 7
+            },
+            "genre": [
+                "Action",
+                "Comedy",
+                "Horror"
+            ],
+            "datePublished": "2007-04-06",
+            "director": [
+                {
+                    "name": "Robert Rodriguez"
+                }
+            ]
+        }
+    },
+    {
+        "title": "39. Event Horizon",
+        "url": "https://www.imdb.com/title/tt0119081/",
+        "description": {
+            "@type": "Movie",
+            "name": "Event Horizon",
+            "description": "A rescue crew is tasked with investigating the mysterious reappearance of a spaceship that had been lost for seven years.",
+            "aggregateRating": {
+                "ratingValue": 6.6
+            },
+            "genre": [
+                "Horror",
+                "Sci-Fi",
+                "Thriller"
+            ],
+            "datePublished": "1997-10-24",
+            "director": [
+                {
+                    "name": "Paul W.S. Anderson"
+                }
+            ]
+        }
+    },
+    {
+        "title": "40. Frankenstein",
+        "url": "https://www.imdb.com/title/tt0021884/",
+        "description": {
+            "@type": "Movie",
+            "name": "Frankenstein",
+            "description": "Dr Henry Frankenstein is obsessed with assembling a living being from parts of several exhumed corpses.",
+            "aggregateRating": {
+                "ratingValue": 7.8
+            },
+            "genre": [
+                "Drama",
+                "Horror",
+                "Sci-Fi"
+            ],
+            "datePublished": "1931-11-21",
+            "director": [
+                {
+                    "name": "James Whale"
+                }
+            ]
+        }
+    },
+    {
+        "title": "41. Dracula",
+        "url": "https://www.imdb.com/title/tt0021814/",
+        "description": {
+            "@type": "Movie",
+            "name": "Dracula",
+            "description": "Transylvanian vampire Count Dracula bends a naive real estate agent to his will, then takes up residence at a London estate where he sleeps in his coffin by day and searches for potential victims by night.",
+            "aggregateRating": {
+                "ratingValue": 7.4
+            },
+            "genre": [
+                "Drama",
+                "Fantasy",
+                "Horror"
+            ],
+            "datePublished": "1931-03-11",
+            "director": [
+                {
+                    "name": "Tod Browning"
+                },
+                {
+                    "name": "Karl Freund"
+                }
+            ]
+        }
+    },
+    {
+        "title": "42. The Wolf Man",
+        "url": "https://www.imdb.com/title/tt0034398/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Wolf Man",
+            "description": "Upon his return to his father&apos;s estate, aristocrat Larry Talbot meets a beautiful woman, attends a mystical carnival and uncovers a horrifying curse.",
+            "aggregateRating": {
+                "ratingValue": 7.2
+            },
+            "genre": [
+                "Horror",
+                "Mystery",
+                "Romance"
+            ],
+            "datePublished": "1941-12-12",
+            "director": [
+                {
+                    "name": "George Waggner"
+                }
+            ]
+        }
+    },
+    {
+        "title": "43. The Exorcism of Emily Rose",
+        "url": "https://www.imdb.com/title/tt0404032/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Exorcism of Emily Rose",
+            "description": "A lawyer takes on a negligent homicide case involving a priest who performed an exorcism on a young girl.",
+            "aggregateRating": {
+                "ratingValue": 6.7
+            },
+            "genre": [
+                "Drama",
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": "2005-09-09",
+            "director": [
+                {
+                    "name": "Scott Derrickson"
+                }
+            ]
+        }
+    },
+    {
+        "title": "44. Split",
+        "url": "https://www.imdb.com/title/tt4972582/",
+        "description": {
+            "@type": "Movie",
+            "name": "Split",
+            "description": "Three girls are kidnapped by a man with a diagnosed 23 distinct personalities. They must try to escape before the apparent emergence of a frightful new 24th.",
+            "aggregateRating": {
+                "ratingValue": 7.3
+            },
+            "genre": [
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": "2017-02-24",
+            "director": [
+                {
+                    "name": "M. Night Shyamalan"
+                }
+            ]
+        }
+    },
+    {
+        "title": "45. The Haunting",
+        "url": "https://www.imdb.com/title/tt0057129/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Haunting",
+            "description": "Hill House has stood for about 90 years and appears haunted: its inhabitants have always met strange, tragic ends. Now Dr. John Markway has assembled a team of people who he thinks will prove whether or not the house is haunted.",
+            "aggregateRating": {
+                "ratingValue": 7.4
+            },
+            "genre": [
+                "Horror"
+            ],
+            "datePublished": "1964-01-09",
+            "director": [
+                {
+                    "name": "Robert Wise"
+                }
+            ]
+        }
+    },
+    {
+        "title": "46. The Fly",
+        "url": "https://www.imdb.com/title/tt0091064/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Fly",
+            "description": "A brilliant but eccentric scientist begins to transform into a giant man/fly hybrid after one of his experiments goes horribly wrong.",
+            "aggregateRating": {
+                "ratingValue": 7.6
+            },
+            "genre": [
+                "Drama",
+                "Horror",
+                "Sci-Fi"
+            ],
+            "datePublished": "1987-11-03",
+            "director": [
+                {
+                    "name": "David Cronenberg"
+                }
+            ]
+        }
+    },
+    {
+        "title": "47. Arachnophobia",
+        "url": "https://www.imdb.com/title/tt0099052/",
+        "description": {
+            "@type": "Movie",
+            "name": "Arachnophobia",
+            "description": "A new species of South American killer spider hitches a lift to a California town in a coffin and starts to breed, leaving a trail of deaths that puzzle and terrify young Dr. Ross Jennings, who is newly arrived in town with his fa...",
+            "aggregateRating": {
+                "ratingValue": 6.5
+            },
+            "genre": [
+                "Comedy",
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": "1990-07-18",
+            "director": [
+                {
+                    "name": "Frank Marshall"
+                }
+            ]
+        }
+    },
+    {
+        "title": "48. Cujo",
+        "url": "https://www.imdb.com/title/tt0085382/",
+        "description": {
+            "@type": "Movie",
+            "name": "Cujo",
+            "description": "Cujo, a friendly St. Bernard, contracts rabies and conducts a reign of terror on a small American town.",
+            "aggregateRating": {
+                "ratingValue": 6.1
+            },
+            "genre": [
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": "1983-08-12",
+            "director": [
+                {
+                    "name": "Lewis Teague"
+                }
+            ]
+        }
+    },
+    {
+        "title": "49. Hellraiser",
+        "url": "https://www.imdb.com/title/tt0093177/",
+        "description": {
+            "@type": "Movie",
+            "name": "Hellraiser",
+            "description": "A woman discovers the newly resurrected, partially formed, body of her brother-in-law and lover. She starts killing for him to revitalize his body and escape the demonic beings that are pursuing him after he escaped their underworld.",
+            "aggregateRating": {
+                "ratingValue": 6.9
+            },
+            "genre": [
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": "1987-09-11",
+            "director": [
+                {
+                    "name": "Clive Barker"
+                }
+            ]
+        }
+    },
+    {
+        "title": "50. Nosferatu: A Symphony of Horror",
+        "url": "https://www.imdb.com/title/tt0013442/",
+        "description": {
+            "@type": "Movie",
+            "name": "Nosferatu, eine Symphonie des Grauens",
+            "description": "Vampire Count Orlok expresses interest in a new residence and real estate agent Hutter&apos;s wife.",
+            "aggregateRating": {
+                "ratingValue": 7.8
+            },
+            "genre": [
+                "Fantasy",
+                "Horror"
+            ],
+            "datePublished": "1922-05-18",
+            "director": [
+                {
+                    "name": "F.W. Murnau"
+                }
+            ]
+        }
+    },
+    {
+        "title": "51. The Lost Boys",
+        "url": "https://www.imdb.com/title/tt0093437/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Lost Boys",
+            "description": "When a recently divorced mother and her two teenage boys move to a coastal town to stay with her father, it doesn&apos;t take long for the brothers to realize the area is a haven for something much more sinister than party-going surfers.",
+            "aggregateRating": {
+                "ratingValue": 7.2
+            },
+            "genre": [
+                "Comedy",
+                "Horror"
+            ],
+            "datePublished": "1987-07-31",
+            "director": [
+                {
+                    "name": "Joel Schumacher"
+                }
+            ]
+        }
+    },
+    {
+        "title": "52. An American Werewolf in London",
+        "url": "https://www.imdb.com/title/tt0082010/",
+        "description": {
+            "@type": "Movie",
+            "name": "An American Werewolf in London",
+            "description": "American college students David Kessler and Jack Goodman on a walking tour of Britain are attacked by a werewolf that none of the locals will admit exists. Jack dies. David recovers in a hospital, where he has nightmares.",
+            "aggregateRating": {
+                "ratingValue": 7.5
+            },
+            "genre": [
+                "Comedy",
+                "Horror"
+            ],
+            "datePublished": "1981-08-21",
+            "director": [
+                {
+                    "name": "John Landis"
+                }
+            ]
+        }
+    },
+    {
+        "title": "53. Tremors",
+        "url": "https://www.imdb.com/title/tt0100814/",
+        "description": {
+            "@type": "Movie",
+            "name": "Tremors",
+            "description": "Natives of a small isolated town defend themselves against strange underground creatures which are killing them one by one.",
+            "aggregateRating": {
+                "ratingValue": 7.2
+            },
+            "genre": [
+                "Comedy",
+                "Horror"
+            ],
+            "datePublished": "1990-01-19",
+            "director": [
+                {
+                    "name": "Ron Underwood"
+                }
+            ]
+        }
+    },
+    {
+        "title": "54. Insidious",
+        "url": "https://www.imdb.com/title/tt1591095/",
+        "description": {
+            "@type": "Movie",
+            "name": "Insidious",
+            "description": "A family looks to prevent evil spirits from trapping their comatose child in a realm called The Further.",
+            "aggregateRating": {
+                "ratingValue": 6.8
+            },
+            "genre": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "datePublished": "2011-04-01",
+            "director": [
+                {
+                    "name": "James Wan"
+                }
+            ]
+        }
+    },
+    {
+        "title": "55. The Phantom of the Opera",
+        "url": "https://www.imdb.com/title/tt0016220/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Phantom of the Opera",
+            "description": "A mad, disfigured composer seeks love with a lovely young opera singer.",
+            "aggregateRating": {
+                "ratingValue": 7.5
+            },
+            "genre": [
+                "Horror"
+            ],
+            "datePublished": "1925-11-15",
+            "director": [
+                {
+                    "name": "Rupert Julian"
+                },
+                {
+                    "name": "Lon Chaney"
+                },
+                {
+                    "name": "Ernst Laemmle"
+                }
+            ]
+        }
+    },
+    {
+        "title": "56. From Hell",
+        "url": "https://www.imdb.com/title/tt0120681/",
+        "description": {
+            "@type": "Movie",
+            "name": "From Hell",
+            "description": "After five ritualistic murders are committed in 1888 London, Inspector Abberline&apos;s assignment is to investigate the &quot;Jack the Ripper&quot; murders. Along with a string of mutilated prostitutes, he uncovers a conspiracy involving the go...",
+            "aggregateRating": {
+                "ratingValue": 6.7
+            },
+            "genre": [
+                "Crime",
+                "Horror",
+                "Mystery"
+            ],
+            "datePublished": "2002-04-18",
+            "director": [
+                {
+                    "name": "Albert Hughes"
+                },
+                {
+                    "name": "Allen Hughes"
+                }
+            ]
+        }
+    },
+    {
+        "title": "57. Dawn of the Dead",
+        "url": "https://www.imdb.com/title/tt0363547/",
+        "description": {
+            "@type": "Movie",
+            "name": "Dawn of the Dead",
+            "description": "A nurse, a policeman, a young married couple, a salesman and other survivors of a worldwide plague that is producing aggressive, flesh-eating zombies, take refuge in a mega Midwestern shopping mall.",
+            "aggregateRating": {
+                "ratingValue": 7.2
+            },
+            "genre": [
+                "Horror"
+            ],
+            "datePublished": null,
+            "director": [
+                {
+                    "name": "Zack Snyder"
+                }
+            ]
+        }
+    },
+    {
+        "title": "58. Hostel",
+        "url": "https://www.imdb.com/title/tt0450278/",
+        "description": {
+            "@type": "Movie",
+            "name": "Hostel",
+            "description": "Three backpackers head to a Slovak city that promises to meet their hedonistic expectations, with no idea of the hell that awaits them.",
+            "aggregateRating": {
+                "ratingValue": 5.9
+            },
+            "genre": [
+                "Horror"
+            ],
+            "datePublished": "2021-01-15",
+            "director": [
+                {
+                    "name": "Eli Roth"
+                }
+            ]
+        }
+    },
+    {
+        "title": "59. The Hills Have Eyes",
+        "url": "https://www.imdb.com/title/tt0077681/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Hills Have Eyes",
+            "description": "On the way to California, a family has the misfortune to have their car break down in an area closed to the public, and inhabited by violent savages ready to attack.",
+            "aggregateRating": {
+                "ratingValue": 6.3
+            },
+            "genre": [
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": "1977-07-22",
+            "director": [
+                {
+                    "name": "Wes Craven"
+                }
+            ]
+        }
+    },
+    {
+        "title": "60. Creature from the Black Lagoon",
+        "url": "https://www.imdb.com/title/tt0046876/",
+        "description": {
+            "@type": "Movie",
+            "name": "Creature from the Black Lagoon",
+            "description": "A strange prehistoric beast lurks in the depths of the Amazonian jungle. A group of scientists try to capture the animal and bring it back to civilization for study.",
+            "aggregateRating": {
+                "ratingValue": 6.9
+            },
+            "genre": [
+                "Horror",
+                "Sci-Fi"
+            ],
+            "datePublished": "1954-03-05",
+            "director": [
+                {
+                    "name": "Jack Arnold"
+                }
+            ]
+        }
+    },
+    {
+        "title": "61. Lake Placid",
+        "url": "https://www.imdb.com/title/tt0139414/",
+        "description": {
+            "@type": "Movie",
+            "name": "Lake Placid",
+            "description": "Four people attempt to stop a gigantic crocodile, who is terrorizing residents in Black Lake, Maine.",
+            "aggregateRating": {
+                "ratingValue": 5.8
+            },
+            "genre": [
+                "Action",
+                "Comedy",
+                "Horror"
+            ],
+            "datePublished": "1999-07-16",
+            "director": [
+                {
+                    "name": "Steve Miner"
+                }
+            ]
+        }
+    },
+    {
+        "title": "62. Candyman",
+        "url": "https://www.imdb.com/title/tt0103919/",
+        "description": {
+            "@type": "Movie",
+            "name": "Candyman",
+            "description": "The Candyman, a murderous soul with a hook for a hand, is accidentally summoned to reality by a skeptic grad student researching the monster&apos;s myth.",
+            "aggregateRating": {
+                "ratingValue": 6.7
+            },
+            "genre": [
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": "1992-10-16",
+            "director": [
+                {
+                    "name": "Bernard Rose"
+                }
+            ]
+        }
+    },
+    {
+        "title": "63. Dead Alive",
+        "url": "https://www.imdb.com/title/tt0103873/",
+        "description": {
+            "@type": "Movie",
+            "name": "Braindead",
+            "description": "A young man&apos;s mother is bitten by a Sumatran rat-monkey. She gets sick and dies, at which time she comes back to life, killing and eating dogs, nurses, friends, and neighbors.",
+            "aggregateRating": {
+                "ratingValue": 7.5
+            },
+            "genre": [
+                "Comedy",
+                "Fantasy",
+                "Horror"
+            ],
+            "datePublished": "1995-11-21",
+            "director": [
+                {
+                    "name": "Peter Jackson"
+                }
+            ]
+        }
+    },
+    {
+        "title": "64. Interview with the Vampire",
+        "url": "https://www.imdb.com/title/tt0110148/",
+        "description": {
+            "@type": "Movie",
+            "name": "Interview with the Vampire: The Vampire Chronicles",
+            "description": "A vampire tells his epic life story: love, betrayal, loneliness, and hunger.",
+            "aggregateRating": {
+                "ratingValue": 7.5
+            },
+            "genre": [
+                "Drama",
+                "Fantasy",
+                "Horror"
+            ],
+            "datePublished": "2017-05-24",
+            "director": [
+                {
+                    "name": "Neil Jordan"
+                }
+            ]
+        }
+    },
+    {
+        "title": "65. Black Christmas",
+        "url": "https://www.imdb.com/title/tt0071222/",
+        "description": {
+            "@type": "Movie",
+            "name": "Black Christmas",
+            "description": "During their Christmas break, a group of sorority girls are stalked by a stranger.",
+            "aggregateRating": {
+                "ratingValue": 7.1
+            },
+            "genre": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "datePublished": "1974-10-11",
+            "director": [
+                {
+                    "name": "Bob Clark"
+                }
+            ]
+        }
+    },
+    {
+        "title": "66. Vampires",
+        "url": "https://www.imdb.com/title/tt0120877/",
+        "description": {
+            "@type": "Movie",
+            "name": "Vampires",
+            "description": "Recovering from an ambush that killed his entire team, a vengeful vampire slayer must retrieve an ancient Catholic relic that, should it be acquired by vampires, will allow them to walk in sunlight.",
+            "aggregateRating": {
+                "ratingValue": 6.1
+            },
+            "genre": [
+                "Action",
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": "1998-10-30",
+            "director": [
+                {
+                    "name": "John Carpenter"
+                }
+            ]
+        }
+    },
+    {
+        "title": "67. Jeepers Creepers",
+        "url": "https://www.imdb.com/title/tt0263488/",
+        "description": {
+            "@type": "Movie",
+            "name": "Jeepers Creepers",
+            "description": "A brother and sister driving home through isolated countryside for spring break encounter a flesh-eating creature which is in the midst of its ritualistic eating spree.",
+            "aggregateRating": {
+                "ratingValue": 6.2
+            },
+            "genre": [
+                "Horror",
+                "Mystery"
+            ],
+            "datePublished": "2002-04-19",
+            "director": [
+                {
+                    "name": "Victor Salva"
+                }
+            ]
+        }
+    },
+    {
+        "title": "68. From Dusk Till Dawn",
+        "url": "https://www.imdb.com/title/tt0116367/",
+        "description": {
+            "@type": "Movie",
+            "name": "From Dusk Till Dawn",
+            "description": "Two criminals and their hostages unknowingly seek temporary refuge in a truck stop populated by vampires, with chaotic results.",
+            "aggregateRating": {
+                "ratingValue": 7.2
+            },
+            "genre": [
+                "Action",
+                "Crime",
+                "Horror"
+            ],
+            "datePublished": "1996-01-19",
+            "director": [
+                {
+                    "name": "Robert Rodriguez"
+                }
+            ]
+        }
+    },
+    {
+        "title": "69. The Fog",
+        "url": "https://www.imdb.com/title/tt0080749/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Fog",
+            "description": "Local legend tells of a ship lured on to the rocks of Antonio Bay being enveloped by a supernatural cloud as it sank; the myth says that when this mysterious fog returns, the victims will rise up from the depths seeking vengeance.",
+            "aggregateRating": {
+                "ratingValue": 6.8
+            },
+            "genre": [
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": "1980-02-08",
+            "director": [
+                {
+                    "name": "John Carpenter"
+                }
+            ]
+        }
+    },
+    {
+        "title": "70. House on Haunted Hill",
+        "url": "https://www.imdb.com/title/tt0051744/",
+        "description": {
+            "@type": "Movie",
+            "name": "House on Haunted Hill",
+            "description": "A millionaire offers $10,000 to five people who agree to be locked in a large, spooky, rented house overnight with him and his wife.",
+            "aggregateRating": {
+                "ratingValue": 6.7
+            },
+            "genre": [
+                "Crime",
+                "Horror",
+                "Mystery"
+            ],
+            "datePublished": "1959-02-17",
+            "director": [
+                {
+                    "name": "William Castle"
+                }
+            ]
+        }
+    },
+    {
+        "title": "71. The Howling",
+        "url": "https://www.imdb.com/title/tt0082533/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Howling",
+            "description": "After a bizarre and near deadly encounter with a serial killer, a television newswoman is sent to a remote mountain resort whose residents may not be what they seem.",
+            "aggregateRating": {
+                "ratingValue": 6.5
+            },
+            "genre": [
+                "Horror"
+            ],
+            "datePublished": "1981-04-10",
+            "director": [
+                {
+                    "name": "Joe Dante"
+                }
+            ]
+        }
+    },
+    {
+        "title": "72. The Blair Witch Project",
+        "url": "https://www.imdb.com/title/tt0185937/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Blair Witch Project",
+            "description": "Three film students vanish after traveling into a Maryland forest to film a documentary on the local Blair Witch legend, leaving only their footage behind.",
+            "aggregateRating": {
+                "ratingValue": 6.5
+            },
+            "genre": [
+                "Horror",
+                "Mystery"
+            ],
+            "datePublished": "2020-08-19",
+            "director": [
+                {
+                    "name": "Daniel Myrick"
+                },
+                {
+                    "name": "Eduardo S\u00e1nchez"
+                }
+            ]
+        }
+    },
+    {
+        "title": "73. Re-Animator",
+        "url": "https://www.imdb.com/title/tt0089885/",
+        "description": {
+            "@type": "Movie",
+            "name": "Re-Animator",
+            "description": "After an odd new medical student arrives on campus, a dedicated local and his girlfriend become involved in bizarre experiments centering around the re-animation of dead tissue.",
+            "aggregateRating": {
+                "ratingValue": 7.1
+            },
+            "genre": [
+                "Comedy",
+                "Horror",
+                "Sci-Fi"
+            ],
+            "datePublished": "1985-10-18",
+            "director": [
+                {
+                    "name": "Stuart Gordon"
+                }
+            ]
+        }
+    },
+    {
+        "title": "74. Children of the Corn",
+        "url": "https://www.imdb.com/title/tt0087050/",
+        "description": {
+            "@type": "Movie",
+            "name": "Children of the Corn",
+            "description": "A young couple is trapped in a remote town where a dangerous religious cult of children believes that everyone over age 18 must be killed.",
+            "aggregateRating": {
+                "ratingValue": 5.6
+            },
+            "genre": [
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": "1984-03-09",
+            "director": [
+                {
+                    "name": "Fritz Kiersch"
+                }
+            ]
+        }
+    },
+    {
+        "title": "75. The Last House on the Left",
+        "url": "https://www.imdb.com/title/tt0068833/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Last House on the Left",
+            "description": "Two teenage girls heading to a rock concert for one&apos;s birthday try to score marijuana in the city, where they are kidnapped and brutalized by a gang of psychopathic convicts.",
+            "aggregateRating": {
+                "ratingValue": 5.8
+            },
+            "genre": [
+                "Crime",
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": "1972-08-30",
+            "director": [
+                {
+                    "name": "Wes Craven"
+                }
+            ]
+        }
+    },
+    {
+        "title": "76. Shaun of the Dead",
+        "url": "https://www.imdb.com/title/tt0365748/",
+        "description": {
+            "@type": "Movie",
+            "name": "Shaun of the Dead",
+            "description": "The uneventful, aimless lives of a London electronics salesman and his layabout roommate are disrupted by the zombie apocalypse.",
+            "aggregateRating": {
+                "ratingValue": 7.9
+            },
+            "genre": [
+                "Comedy",
+                "Horror"
+            ],
+            "datePublished": "2018-10-04",
+            "director": [
+                {
+                    "name": "Edgar Wright"
+                }
+            ]
+        }
+    },
+    {
+        "title": "77. The Ghost and the Darkness",
+        "url": "https://www.imdb.com/title/tt0116409/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Ghost and the Darkness",
+            "description": "A bridge engineer and an experienced old hunter begin a hunt for two lions after they start attacking local construction workers.",
+            "aggregateRating": {
+                "ratingValue": 6.8
+            },
+            "genre": [
+                "Adventure",
+                "Drama",
+                "Thriller"
+            ],
+            "datePublished": "1996-10-11",
+            "director": [
+                {
+                    "name": "Stephen Hopkins"
+                }
+            ]
+        }
+    },
+    {
+        "title": "78. Frailty",
+        "url": "https://www.imdb.com/title/tt0264616/",
+        "description": {
+            "@type": "Movie",
+            "name": "Frailty",
+            "description": "A mysterious man arrives at the offices of an FBI agent and recounts his childhood: how his religious fanatic father received visions telling him to destroy people who were in fact &quot;demons.&quot;",
+            "aggregateRating": {
+                "ratingValue": 7.2
+            },
+            "genre": [
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "datePublished": "2002-04-12",
+            "director": [
+                {
+                    "name": "Bill Paxton"
+                }
+            ]
+        }
+    },
+    {
+        "title": "79. Let Me In",
+        "url": "https://www.imdb.com/title/tt1228987/",
+        "description": {
+            "@type": "Movie",
+            "name": "Let Me In",
+            "description": "A bullied young boy befriends a young female vampire who lives in secrecy with her guardian.",
+            "aggregateRating": {
+                "ratingValue": 7.1
+            },
+            "genre": [
+                "Drama",
+                "Fantasy",
+                "Horror"
+            ],
+            "datePublished": "2010-10-01",
+            "director": [
+                {
+                    "name": "Matt Reeves"
+                }
+            ]
+        }
+    },
+    {
+        "title": "80. Village of the Damned",
+        "url": "https://www.imdb.com/title/tt0054443/",
+        "description": {
+            "@type": "Movie",
+            "name": "Village of the Damned",
+            "description": "In the English village of Midwich, the blonde-haired, glowing-eyed children of uncertain paternity prove to have frightening powers.",
+            "aggregateRating": {
+                "ratingValue": 7.3
+            },
+            "genre": [
+                "Horror",
+                "Sci-Fi"
+            ],
+            "datePublished": "1960-11-14",
+            "director": [
+                {
+                    "name": "Wolf Rilla"
+                }
+            ]
+        }
+    },
+    {
+        "title": "81. Fright Night",
+        "url": "https://www.imdb.com/title/tt0089175/",
+        "description": {
+            "@type": "Movie",
+            "name": "Fright Night",
+            "description": "&quot;Fright Night&quot; sees a teenager believing that the newcomer in his neighborhood is a vampire. He turns to an actor in a television hosted horror movie show for help to deal with the undead.",
+            "aggregateRating": {
+                "ratingValue": 7
+            },
+            "genre": [
+                "Horror"
+            ],
+            "datePublished": "2019-12-21",
+            "director": [
+                {
+                    "name": "Tom Holland"
+                }
+            ]
+        }
+    },
+    {
+        "title": "82. The Wicker Man",
+        "url": "https://www.imdb.com/title/tt0070917/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Wicker Man",
+            "description": "A puritan police sergeant arrives in a Scottish island village in search of a missing girl, who the pagan locals claim never existed.",
+            "aggregateRating": {
+                "ratingValue": 7.5
+            },
+            "genre": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "datePublished": "1973-12-06",
+            "director": [
+                {
+                    "name": "Robin Hardy"
+                }
+            ]
+        }
+    },
+    {
+        "title": "83. 28 Days Later",
+        "url": "https://www.imdb.com/title/tt0289043/",
+        "description": {
+            "@type": "Movie",
+            "name": "28 Days Later",
+            "description": "Four weeks after a mysterious, incurable virus spreads throughout the United Kingdom, a handful of survivors try to find sanctuary.",
+            "aggregateRating": {
+                "ratingValue": 7.5
+            },
+            "genre": [
+                "Drama",
+                "Horror",
+                "Sci-Fi"
+            ],
+            "datePublished": "2003-10-24",
+            "director": [
+                {
+                    "name": "Danny Boyle"
+                }
+            ]
+        }
+    },
+    {
+        "title": "84. Teeth",
+        "url": "https://www.imdb.com/title/tt0780622/",
+        "description": {
+            "@type": "Movie",
+            "name": "Teeth",
+            "description": "Still a stranger to her own body, a high school student discovers she has a physical advantage when she becomes the object of male violence.",
+            "aggregateRating": {
+                "ratingValue": 5.4
+            },
+            "genre": [
+                "Comedy",
+                "Fantasy",
+                "Horror"
+            ],
+            "datePublished": "2008-04-03",
+            "director": [
+                {
+                    "name": "Mitchell Lichtenstein"
+                }
+            ]
+        }
+    },
+    {
+        "title": "85. The Blob",
+        "url": "https://www.imdb.com/title/tt0051418/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Blob",
+            "description": "An alien lifeform consumes everything in its path as it grows and grows.",
+            "aggregateRating": {
+                "ratingValue": 6.3
+            },
+            "genre": [
+                "Horror",
+                "Sci-Fi"
+            ],
+            "datePublished": "1958-09-10",
+            "director": [
+                {
+                    "name": "Irvin S. Yeaworth Jr."
+                },
+                {
+                    "name": "Russell S. Doughten Jr."
+                }
+            ]
+        }
+    },
+    {
+        "title": "86. Paranormal Activity",
+        "url": "https://www.imdb.com/title/tt1179904/",
+        "description": {
+            "@type": "Movie",
+            "name": "Paranormal Activity",
+            "description": "After moving into a suburban home, a couple becomes increasingly disturbed by a nightly demonic presence.",
+            "aggregateRating": {
+                "ratingValue": 6.3
+            },
+            "genre": [
+                "Horror",
+                "Mystery"
+            ],
+            "datePublished": "2010-01-08",
+            "director": [
+                {
+                    "name": "Oren Peli"
+                }
+            ]
+        }
+    },
+    {
+        "title": "87. The Ring",
+        "url": "https://www.imdb.com/title/tt0298130/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Ring",
+            "description": "A journalist must investigate a mysterious videotape which seems to cause the death of anyone one week to the day after they view it.",
+            "aggregateRating": {
+                "ratingValue": 7.1
+            },
+            "genre": [
+                "Horror",
+                "Mystery"
+            ],
+            "datePublished": "2003-02-07",
+            "director": [
+                {
+                    "name": "Gore Verbinski"
+                }
+            ]
+        }
+    },
+    {
+        "title": "88. Orphan",
+        "url": "https://www.imdb.com/title/tt1148204/",
+        "description": {
+            "@type": "Movie",
+            "name": "Orphan",
+            "description": "A husband and wife who recently lost their baby adopt a 9-year-old girl who is not nearly as innocent as she appears.",
+            "aggregateRating": {
+                "ratingValue": 7
+            },
+            "genre": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "datePublished": "2009-09-18",
+            "director": [
+                {
+                    "name": "Jaume Collet-Serra"
+                }
+            ]
+        }
+    },
+    {
+        "title": "89. The Descent",
+        "url": "https://www.imdb.com/title/tt0435625/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Descent",
+            "description": "A caving expedition goes horribly wrong, as the explorers become trapped and ultimately pursued by a strange breed of predators.",
+            "aggregateRating": {
+                "ratingValue": 7.2
+            },
+            "genre": [
+                "Adventure",
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": "2005-07-08",
+            "director": [
+                {
+                    "name": "Neil Marshall"
+                }
+            ]
+        }
+    },
+    {
+        "title": "90. Suspiria",
+        "url": "https://www.imdb.com/title/tt0076786/",
+        "description": {
+            "@type": "Movie",
+            "name": "Suspiria",
+            "description": "An American newcomer to a prestigious German ballet academy comes to realize that the school is a front for something sinister amid a series of grisly murders.",
+            "aggregateRating": {
+                "ratingValue": 7.3
+            },
+            "genre": [
+                "Horror"
+            ],
+            "datePublished": "1979-12-10",
+            "director": [
+                {
+                    "name": "Dario Argento"
+                }
+            ]
+        }
+    },
+    {
+        "title": "91. Creepshow",
+        "url": "https://www.imdb.com/title/tt0083767/",
+        "description": {
+            "@type": "Movie",
+            "name": "Creepshow",
+            "description": "Five grisly tales from a kid&apos;s comic book about a murdered father rising from his grave, a bizarre meteor, a vengeful husband, a mysterious crate&apos;s occupant, and a plague of cockroaches.",
+            "aggregateRating": {
+                "ratingValue": 6.8
+            },
+            "genre": [
+                "Comedy",
+                "Fantasy",
+                "Horror"
+            ],
+            "datePublished": "1982-11-10",
+            "director": [
+                {
+                    "name": "George A. Romero"
+                }
+            ]
+        }
+    },
+    {
+        "title": "92. Slither",
+        "url": "https://www.imdb.com/title/tt0439815/",
+        "description": {
+            "@type": "Movie",
+            "name": "Slither",
+            "description": "A small town is taken over by an alien plague, turning residents into zombies and all forms of mutant monsters.",
+            "aggregateRating": {
+                "ratingValue": 6.5
+            },
+            "genre": [
+                "Comedy",
+                "Horror",
+                "Sci-Fi"
+            ],
+            "datePublished": "2006-03-31",
+            "director": [
+                {
+                    "name": "James Gunn"
+                }
+            ]
+        }
+    },
+    {
+        "title": "93. Zombieland",
+        "url": "https://www.imdb.com/title/tt1156398/",
+        "description": {
+            "@type": "Movie",
+            "name": "Zombieland",
+            "description": "A shy student trying to reach his family in Ohio, a gun-toting bruiser in search of the last Twinkie and a pair of sisters striving to get to an amusement park join forces in a trek across a zombie-filled America.",
+            "aggregateRating": {
+                "ratingValue": 7.5
+            },
+            "genre": [
+                "Action",
+                "Comedy",
+                "Horror"
+            ],
+            "datePublished": "2010-02-19",
+            "director": [
+                {
+                    "name": "Ruben Fleischer"
+                }
+            ]
+        }
+    },
+    {
+        "title": "94. Scanners",
+        "url": "https://www.imdb.com/title/tt0081455/",
+        "description": {
+            "@type": "Movie",
+            "name": "Scanners",
+            "description": "A scientist trains a man with an advanced telepathic ability called &quot;scanning&quot; to stop a dangerous Scanner with extraordinary psychic powers from waging war against non scanners.",
+            "aggregateRating": {
+                "ratingValue": 6.7
+            },
+            "genre": [
+                "Horror",
+                "Sci-Fi",
+                "Thriller"
+            ],
+            "datePublished": "1981-01-16",
+            "director": [
+                {
+                    "name": "David Cronenberg"
+                }
+            ]
+        }
+    },
+    {
+        "title": "95. Phantasm",
+        "url": "https://www.imdb.com/title/tt0079714/",
+        "description": {
+            "@type": "Movie",
+            "name": "Phantasm",
+            "description": "Newly orphaned teenager Mike Pearson, his older brother Jody, and their friends face off against a mysterious grave robber known as the Tall Man, who employs a lethal arsenal of unearthly weapons in their southern California town.",
+            "aggregateRating": {
+                "ratingValue": 6.6
+            },
+            "genre": [
+                "Horror",
+                "Sci-Fi"
+            ],
+            "datePublished": "1979-12-10",
+            "director": [
+                {
+                    "name": "Don Coscarelli"
+                }
+            ]
+        }
+    },
+    {
+        "title": "96. Species",
+        "url": "https://www.imdb.com/title/tt0114508/",
+        "description": {
+            "@type": "Movie",
+            "name": "Species",
+            "description": "A group of scientists try to track down and trap a killer alien seductress before she successfully mates with a human.",
+            "aggregateRating": {
+                "ratingValue": 5.9
+            },
+            "genre": [
+                "Action",
+                "Horror",
+                "Sci-Fi"
+            ],
+            "datePublished": "1995-07-07",
+            "director": [
+                {
+                    "name": "Roger Donaldson"
+                }
+            ]
+        }
+    },
+    {
+        "title": "97. Critters",
+        "url": "https://www.imdb.com/title/tt0090887/",
+        "description": {
+            "@type": "Movie",
+            "name": "Critters",
+            "description": "A group of small but vicious alien creatures called Crites escape from an alien prison transport vessel and land near a small farm town on earth, pursued by two shape-shifting bounty hunters.",
+            "aggregateRating": {
+                "ratingValue": 6.1
+            },
+            "genre": [
+                "Comedy",
+                "Horror",
+                "Sci-Fi"
+            ],
+            "datePublished": "1986-04-11",
+            "director": [
+                {
+                    "name": "Stephen Herek"
+                }
+            ]
+        }
+    },
+    {
+        "title": "98. Cabin Fever",
+        "url": "https://www.imdb.com/title/tt0303816/",
+        "description": {
+            "@type": "Movie",
+            "name": "Cabin Fever",
+            "description": "Five college graduates rent a cabin in the woods and begin to fall victim to a horrifying flesh-eating virus, which attracts the unwanted attention of the homicidal locals.",
+            "aggregateRating": {
+                "ratingValue": 5.6
+            },
+            "genre": [
+                "Horror"
+            ],
+            "datePublished": "2009-05-08",
+            "director": [
+                {
+                    "name": "Eli Roth"
+                }
+            ]
+        }
+    },
+    {
+        "title": "99. Killer Klowns from Outer Space",
+        "url": "https://www.imdb.com/title/tt0095444/",
+        "description": {
+            "@type": "Movie",
+            "name": "Killer Klowns from Outer Space",
+            "description": "Aliens who look like clowns come from outer space and terrorize a small town.",
+            "aggregateRating": {
+                "ratingValue": 6.2
+            },
+            "genre": [
+                "Comedy",
+                "Horror",
+                "Sci-Fi"
+            ],
+            "datePublished": "1988-05-27",
+            "director": [
+                {
+                    "name": "Stephen Chiodo"
+                }
+            ]
+        }
+    },
+    {
+        "title": "100. The Uninvited",
+        "url": "https://www.imdb.com/title/tt0037415/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Uninvited",
+            "description": "A composer and his sister discover that the reason they are able to purchase a beautiful gothic seacoast mansion very cheaply is the house&apos;s unsavory past.",
+            "aggregateRating": {
+                "ratingValue": 7.2
+            },
+            "genre": [
+                "Fantasy",
+                "Horror",
+                "Mystery"
+            ],
+            "datePublished": "1944-09-01",
+            "director": [
+                {
+                    "name": "Lewis Allen"
+                }
+            ]
+        }
+    },
+    {
+        "title": "101. Halloween",
+        "url": "https://www.imdb.com/title/tt0373883/",
+        "description": {
+            "@type": "Movie",
+            "name": "Halloween",
+            "description": "After being committed for 15 years, Michael Myers, now a grown man and still very dangerous, escapes from the mental institution and immediately returns to Haddonfield to find his baby sister, Laurie.",
+            "aggregateRating": {
+                "ratingValue": 6
+            },
+            "genre": [
+                "Horror"
+            ],
+            "datePublished": "2007-08-31",
+            "director": [
+                {
+                    "name": "Rob Zombie"
+                }
+            ]
+        }
+    },
+    {
+        "title": "102. What We Do in the Shadows",
+        "url": "https://www.imdb.com/title/tt3416742/",
+        "description": {
+            "@type": "Movie",
+            "name": "What We Do in the Shadows",
+            "description": "Viago, Deacon, and Vladislav are vampires who are struggling with the mundane aspects of modern life, like paying rent, keeping up with the chore wheel, trying to get into nightclubs, and overcoming flatmate conflicts.",
+            "aggregateRating": {
+                "ratingValue": 7.6
+            },
+            "genre": [
+                "Comedy",
+                "Horror"
+            ],
+            "datePublished": "2014-06-19",
+            "director": [
+                {
+                    "name": "Jemaine Clement"
+                },
+                {
+                    "name": "Taika Waititi"
+                }
+            ]
+        }
+    },
+    {
+        "title": "103. Day of the Dead",
+        "url": "https://www.imdb.com/title/tt0088993/",
+        "description": {
+            "@type": "Movie",
+            "name": "Day of the Dead",
+            "description": "As the world is overrun by zombies, a group of scientists and military personnel sheltering in an underground bunker in Florida must decide on how they should deal with the undead horde.",
+            "aggregateRating": {
+                "ratingValue": 7.1
+            },
+            "genre": [
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": "1985-07-19",
+            "director": [
+                {
+                    "name": "George A. Romero"
+                }
+            ]
+        }
+    },
+    {
+        "title": "104. Invasion of the Body Snatchers",
+        "url": "https://www.imdb.com/title/tt0077745/",
+        "description": {
+            "@type": "Movie",
+            "name": "Invasion of the Body Snatchers",
+            "description": "When strange seeds drift to earth from space, mysterious pods begin to grow and invade San Francisco, replicating the city&apos;s residents one body at a time.",
+            "aggregateRating": {
+                "ratingValue": 7.4
+            },
+            "genre": [
+                "Horror",
+                "Sci-Fi"
+            ],
+            "datePublished": "1978-12-22",
+            "director": [
+                {
+                    "name": "Philip Kaufman"
+                }
+            ]
+        }
+    },
+    {
+        "title": "105. Frenzy",
+        "url": "https://www.imdb.com/title/tt0068611/",
+        "description": {
+            "@type": "Movie",
+            "name": "Frenzy",
+            "description": "A serial murderer is strangling women with a necktie. The London police have a suspect, but he is the wrong man.",
+            "aggregateRating": {
+                "ratingValue": 7.4
+            },
+            "genre": [
+                "Thriller"
+            ],
+            "datePublished": "1972-06-21",
+            "director": [
+                {
+                    "name": "Alfred Hitchcock"
+                }
+            ]
+        }
+    },
+    {
+        "title": "106. Get Out",
+        "url": "https://www.imdb.com/title/tt5052448/",
+        "description": {
+            "@type": "Movie",
+            "name": "Get Out",
+            "description": "A young African-American visits his white girlfriend&apos;s parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.",
+            "aggregateRating": {
+                "ratingValue": 7.8
+            },
+            "genre": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "datePublished": "2017-02-24",
+            "director": [
+                {
+                    "name": "Jordan Peele"
+                }
+            ]
+        }
+    },
+    {
+        "title": "107. The Conjuring",
+        "url": "https://www.imdb.com/title/tt1457767/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Conjuring",
+            "description": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse.",
+            "aggregateRating": {
+                "ratingValue": 7.5
+            },
+            "genre": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "datePublished": "2013-08-02",
+            "director": [
+                {
+                    "name": "James Wan"
+                }
+            ]
+        }
+    },
+    {
+        "title": "108. Tales from the Crypt",
+        "url": "https://www.imdb.com/title/tt0069341/",
+        "description": {
+            "@type": "Movie",
+            "name": "Tales from the Crypt",
+            "description": "Five strangers get lost in a crypt and, after meeting the mysterious Crypt Keeper, receive visions of how they will die.",
+            "aggregateRating": {
+                "ratingValue": 6.8
+            },
+            "genre": [
+                "Drama",
+                "Horror",
+                "Mystery"
+            ],
+            "datePublished": "1972-09-28",
+            "director": [
+                {
+                    "name": "Freddie Francis"
+                }
+            ]
+        }
+    },
+    {
+        "title": "109. The Babadook",
+        "url": "https://www.imdb.com/title/tt2321549/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Babadook",
+            "description": "A single mother and her child fall into a deep well of paranoia when an eerie children&apos;s book titled &quot;Mister Babadook&quot; manifests in their home.",
+            "aggregateRating": {
+                "ratingValue": 6.8
+            },
+            "genre": [
+                "Drama",
+                "Horror",
+                "Mystery"
+            ],
+            "datePublished": "2014-12-12",
+            "director": [
+                {
+                    "name": "Jennifer Kent"
+                }
+            ]
+        }
+    },
+    {
+        "title": "110. The Mummy",
+        "url": "https://www.imdb.com/title/tt0023245/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Mummy",
+            "description": "A resurrected Egyptian mummy searches Cairo for the girl he believes to be his long-lost princess.",
+            "aggregateRating": {
+                "ratingValue": 7
+            },
+            "genre": [
+                "Fantasy",
+                "Horror"
+            ],
+            "datePublished": "1932-12-22",
+            "director": [
+                {
+                    "name": "Karl Freund"
+                }
+            ]
+        }
+    },
+    {
+        "title": "111. Quarantine",
+        "url": "https://www.imdb.com/title/tt1082868/",
+        "description": {
+            "@type": "Movie",
+            "name": "Quarantine",
+            "description": "A television reporter and her cameraman are trapped inside a building quarantined by the CDC, after the outbreak of a mysterious virus which turns humans into bloodthirsty killers.",
+            "aggregateRating": {
+                "ratingValue": 6
+            },
+            "genre": [
+                "Horror",
+                "Sci-Fi",
+                "Thriller"
+            ],
+            "datePublished": "2018-03-16",
+            "director": [
+                {
+                    "name": "John Erick Dowdle"
+                }
+            ]
+        }
+    },
+    {
+        "title": "112. Tideland",
+        "url": "https://www.imdb.com/title/tt0410764/",
+        "description": {
+            "@type": "Movie",
+            "name": "Tideland",
+            "description": "Because of the actions of her irresponsible parents, a young girl is left alone on a decrepit country estate and survives inside her fantastic imagination.",
+            "aggregateRating": {
+                "ratingValue": 6.3
+            },
+            "genre": [
+                "Drama",
+                "Fantasy",
+                "Horror"
+            ],
+            "datePublished": "2006-08-11",
+            "director": [
+                {
+                    "name": "Terry Gilliam"
+                }
+            ]
+        }
+    },
+    {
+        "title": "113. Pumpkinhead",
+        "url": "https://www.imdb.com/title/tt0095925/",
+        "description": {
+            "@type": "Movie",
+            "name": "Pumpkinhead",
+            "description": "After a tragic accident, a man conjures up a towering, vengeful demon called Pumpkinhead to destroy a group of unsuspecting teenagers.",
+            "aggregateRating": {
+                "ratingValue": 6.2
+            },
+            "genre": [
+                "Fantasy",
+                "Horror"
+            ],
+            "datePublished": "1989-01-13",
+            "director": [
+                {
+                    "name": "Stan Winston"
+                }
+            ]
+        }
+    },
+    {
+        "title": "114. The Hitcher",
+        "url": "https://www.imdb.com/title/tt0091209/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Hitcher",
+            "description": "A young man who escapes the clutches of a murderous hitchhiker is subsequently stalked by the hitcher and framed for his crimes.",
+            "aggregateRating": {
+                "ratingValue": 7.2
+            },
+            "genre": [
+                "Mystery",
+                "Thriller"
+            ],
+            "datePublished": null,
+            "director": [
+                {
+                    "name": "Robert Harmon"
+                }
+            ]
+        }
+    },
+    {
+        "title": "115. The Beyond",
+        "url": "https://www.imdb.com/title/tt0082307/",
+        "description": {
+            "@type": "Movie",
+            "name": "...E tu vivrai nel terrore! L&apos;aldil\u00e0",
+            "description": "A young woman inherits an old hotel in Louisiana where, following a series of supernatural &quot;accidents&quot;, she learns that the building was built over one of the entrances to Hell.",
+            "aggregateRating": {
+                "ratingValue": 6.6
+            },
+            "genre": [
+                "Horror"
+            ],
+            "datePublished": "1981-04-29",
+            "director": [
+                {
+                    "name": "Lucio Fulci"
+                }
+            ]
+        }
+    },
+    {
+        "title": "116. Christine",
+        "url": "https://www.imdb.com/title/tt0085333/",
+        "description": {
+            "@type": "Movie",
+            "name": "Christine",
+            "description": "A nerdish boy buys a strange car with an evil mind of its own and his nature starts to change to reflect it.",
+            "aggregateRating": {
+                "ratingValue": 6.8
+            },
+            "genre": [
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": "1985-09-24",
+            "director": [
+                {
+                    "name": "John Carpenter"
+                }
+            ]
+        }
+    },
+    {
+        "title": "117. Final Destination",
+        "url": "https://www.imdb.com/title/tt0195714/",
+        "description": {
+            "@type": "Movie",
+            "name": "Final Destination",
+            "description": "After getting a premonition about a plane crash on his school trip, Alex, a student, saves a few of his classmates. However, their situation gets complicated when death starts chasing them.",
+            "aggregateRating": {
+                "ratingValue": 6.7
+            },
+            "genre": [
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": "2000-09-22",
+            "director": [
+                {
+                    "name": "James Wong"
+                }
+            ]
+        }
+    },
+    {
+        "title": "118. Ghoulies",
+        "url": "https://www.imdb.com/title/tt0089200/",
+        "description": {
+            "@type": "Movie",
+            "name": "Ghoulies",
+            "description": "A young man and his girlfriend move into an old mansion home, where he becomes possessed by a desire to control ancient demons.",
+            "aggregateRating": {
+                "ratingValue": 4.2
+            },
+            "genre": [
+                "Comedy",
+                "Fantasy",
+                "Horror"
+            ],
+            "datePublished": null,
+            "director": [
+                {
+                    "name": "Luca Bercovici"
+                }
+            ]
+        }
+    },
+    {
+        "title": "119. Idle Hands",
+        "url": "https://www.imdb.com/title/tt0138510/",
+        "description": {
+            "@type": "Movie",
+            "name": "Idle Hands",
+            "description": "A teenage slacker&apos;s right hand becomes possessed with murderous intent.",
+            "aggregateRating": {
+                "ratingValue": 6.3
+            },
+            "genre": [
+                "Comedy",
+                "Fantasy",
+                "Horror"
+            ],
+            "datePublished": "1999-04-30",
+            "director": [
+                {
+                    "name": "Rodman Flender"
+                }
+            ]
+        }
+    },
+    {
+        "title": "120. The Monster Squad",
+        "url": "https://www.imdb.com/title/tt0093560/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Monster Squad",
+            "description": "A group of 12-year-olds form a Universal Monsters fan club called Monster Squad, and have to attempt to save their hometown from Count Dracula and his monsters when they show up for real.",
+            "aggregateRating": {
+                "ratingValue": 6.9
+            },
+            "genre": [
+                "Action",
+                "Comedy",
+                "Fantasy"
+            ],
+            "datePublished": "1987-08-14",
+            "director": [
+                {
+                    "name": "Fred Dekker"
+                }
+            ]
+        }
+    },
+    {
+        "title": "121. Snakes on a Plane",
+        "url": "https://www.imdb.com/title/tt0417148/",
+        "description": {
+            "@type": "Movie",
+            "name": "Snakes on a Plane",
+            "description": "An FBI agent takes on a plane full of deadly venomous snakes, deliberately released to kill a witness being flown from Honolulu to Los Angeles to testify against a mob boss.",
+            "aggregateRating": {
+                "ratingValue": 5.5
+            },
+            "genre": [
+                "Action",
+                "Adventure",
+                "Crime"
+            ],
+            "datePublished": "2008-04-18",
+            "director": [
+                {
+                    "name": "David R. Ellis"
+                }
+            ]
+        }
+    },
+    {
+        "title": "122. Thinner",
+        "url": "https://www.imdb.com/title/tt0117894/",
+        "description": {
+            "@type": "Movie",
+            "name": "Thinner",
+            "description": "An obese attorney is cursed by a gypsy to rapidly and uncontrollably lose weight.",
+            "aggregateRating": {
+                "ratingValue": 5.8
+            },
+            "genre": [
+                "Fantasy",
+                "Horror"
+            ],
+            "datePublished": "1996-10-25",
+            "director": [
+                {
+                    "name": "Tom Holland"
+                }
+            ]
+        }
+    },
+    {
+        "title": "123. REC",
+        "url": "https://www.imdb.com/title/tt1038988/",
+        "description": {
+            "@type": "Movie",
+            "name": "[Rec]",
+            "description": "A television reporter and cameraman follow emergency workers into a dark apartment building and are quickly locked inside with something terrifying.",
+            "aggregateRating": {
+                "ratingValue": 7.4
+            },
+            "genre": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "datePublished": "2007-11-23",
+            "director": [
+                {
+                    "name": "Jaume Balaguer\u00f3"
+                },
+                {
+                    "name": "Paco Plaza"
+                }
+            ]
+        }
+    },
+    {
+        "title": "124. Dead Silence",
+        "url": "https://www.imdb.com/title/tt0455760/",
+        "description": {
+            "@type": "Movie",
+            "name": "Dead Silence",
+            "description": "After his wife meets a grisly end, Jamie Ashen returns to his haunted hometown of Ravens Fair to find answers. His investigation leads him to the ghost of a ventriloquist named Mary Shaw who seems to have ties to his entire family...",
+            "aggregateRating": {
+                "ratingValue": 6.1
+            },
+            "genre": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "datePublished": "2020-10-23",
+            "director": [
+                {
+                    "name": "James Wan"
+                }
+            ]
+        }
+    },
+    {
+        "title": "125. Children of the Damned",
+        "url": "https://www.imdb.com/title/tt0056931/",
+        "description": {
+            "@type": "Movie",
+            "name": "Children of the Damned",
+            "description": "Six impossibly intelligent children from all over the world with dangerous psychic powers hide in a church in England after the military tries to experiment on them. Besieged, they warn the military to back off before carnage ensues.",
+            "aggregateRating": {
+                "ratingValue": 6.2
+            },
+            "genre": [
+                "Drama",
+                "Horror",
+                "Mystery"
+            ],
+            "datePublished": "1964-01-29",
+            "director": [
+                {
+                    "name": "Anton Leader"
+                }
+            ]
+        }
+    },
+    {
+        "title": "126. It Follows",
+        "url": "https://www.imdb.com/title/tt3235888/",
+        "description": {
+            "@type": "Movie",
+            "name": "It Follows",
+            "description": "A young woman is followed by an unknown supernatural force after a sexual encounter.",
+            "aggregateRating": {
+                "ratingValue": 6.8
+            },
+            "genre": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "datePublished": "2015-04-10",
+            "director": [
+                {
+                    "name": "David Robert Mitchell"
+                }
+            ]
+        }
+    },
+    {
+        "title": "127. The Grudge",
+        "url": "https://www.imdb.com/title/tt0391198/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Grudge",
+            "description": "An American nurse living and working in Tokyo is exposed to a mysterious supernatural curse, one that locks a person in a powerful rage before claiming their life and spreading to another victim.",
+            "aggregateRating": {
+                "ratingValue": 5.9
+            },
+            "genre": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "datePublished": "2005-09-01",
+            "director": [
+                {
+                    "name": "Takashi Shimizu"
+                }
+            ]
+        }
+    },
+    {
+        "title": "128. Sleepwalkers",
+        "url": "https://www.imdb.com/title/tt0105428/",
+        "description": {
+            "@type": "Movie",
+            "name": "Sleepwalkers",
+            "description": "A mother-and-son team of strange supernatural creatures move to a small town to seek out a young virgin to feed on.",
+            "aggregateRating": {
+                "ratingValue": 5.3
+            },
+            "genre": [
+                "Fantasy",
+                "Horror"
+            ],
+            "datePublished": "1992-04-10",
+            "director": [
+                {
+                    "name": "Mick Garris"
+                }
+            ]
+        }
+    },
+    {
+        "title": "129. Dark Skies",
+        "url": "https://www.imdb.com/title/tt2387433/",
+        "description": {
+            "@type": "Movie",
+            "name": "Dark Skies",
+            "description": "As the Barrett family&apos;s peaceful suburban life is rocked by an escalating series of disturbing events, they come to learn that a terrifying and deadly force is after them, one which may have arrived from beyond the stars.",
+            "aggregateRating": {
+                "ratingValue": 6.3
+            },
+            "genre": [
+                "Horror",
+                "Sci-Fi",
+                "Thriller"
+            ],
+            "datePublished": "2013-02-22",
+            "director": [
+                {
+                    "name": "Scott Stewart"
+                }
+            ]
+        }
+    },
+    {
+        "title": "130. Leprechaun",
+        "url": "https://www.imdb.com/title/tt0107387/",
+        "description": {
+            "@type": "Movie",
+            "name": "Leprechaun",
+            "description": "An evil, sadistic Leprechaun goes on a killing rampage in search of his beloved pot of gold.",
+            "aggregateRating": {
+                "ratingValue": 4.8
+            },
+            "genre": [
+                "Comedy",
+                "Fantasy",
+                "Horror"
+            ],
+            "datePublished": "1993-01-08",
+            "director": [
+                {
+                    "name": "Mark Jones"
+                }
+            ]
+        }
+    },
+    {
+        "title": "131. Tales from the Hood",
+        "url": "https://www.imdb.com/title/tt0114609/",
+        "description": {
+            "@type": "Movie",
+            "name": "Tales from the Hood",
+            "description": "A funeral director tells four strange tales of horror with an African American focus to three drug dealers he traps in his place of business.",
+            "aggregateRating": {
+                "ratingValue": 6.5
+            },
+            "genre": [
+                "Crime",
+                "Drama",
+                "Horror"
+            ],
+            "datePublished": "1995-05-24",
+            "director": [
+                {
+                    "name": "Rusty Cundieff"
+                }
+            ]
+        }
+    },
+    {
+        "title": "132. The Midnight Meat Train",
+        "url": "https://www.imdb.com/title/tt0805570/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Midnight Meat Train",
+            "description": "A photographer&apos;s obsessive pursuit of dark subject matter leads him into the path of a serial killer who stalks late night commuters, ultimately butchering them in the most gruesome ways.",
+            "aggregateRating": {
+                "ratingValue": 6
+            },
+            "genre": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "datePublished": "2008-10-31",
+            "director": [
+                {
+                    "name": "Ry\u00fbhei Kitamura"
+                }
+            ]
+        }
+    },
+    {
+        "title": "133. The Strangers",
+        "url": "https://www.imdb.com/title/tt0482606/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Strangers",
+            "description": "James Hoyt and Kristen McKay visit an isolated vacation home to enjoy some time together. However, they are in for a rude surprise when three masked assailants make their stay a nightmare.",
+            "aggregateRating": {
+                "ratingValue": 6.1
+            },
+            "genre": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "datePublished": "2008-05-30",
+            "director": [
+                {
+                    "name": "Bryan Bertino"
+                }
+            ]
+        }
+    },
+    {
+        "title": "134. The Cabin in the Woods",
+        "url": "https://www.imdb.com/title/tt1259521/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Cabin in the Woods",
+            "description": "A group of kids go to a remote cabin in the woods where their fate is unknowingly controlled by technicians as part of a world-wide conspiracy where all horror movie clich\u00e9s are revealed to be part of an elaborate sacrifice ritual.",
+            "aggregateRating": {
+                "ratingValue": 7
+            },
+            "genre": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "datePublished": "2012-06-01",
+            "director": [
+                {
+                    "name": "Drew Goddard"
+                }
+            ]
+        }
+    },
+    {
+        "title": "135. The Boogey Man",
+        "url": "https://www.imdb.com/title/tt0080464/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Boogey Man",
+            "description": "Through the reflection in the mirror, a girl witnesses her mother&apos;s boyfriend&apos;s murder.",
+            "aggregateRating": {
+                "ratingValue": 4.7
+            },
+            "genre": [
+                "Horror"
+            ],
+            "datePublished": "1980-11-07",
+            "director": [
+                {
+                    "name": "Ulli Lommel"
+                }
+            ]
+        }
+    },
+    {
+        "title": "136. The Last Exorcism",
+        "url": "https://www.imdb.com/title/tt1320244/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Last Exorcism",
+            "description": "A troubled evangelical minister agrees to let his last exorcism be filmed by a documentary crew.",
+            "aggregateRating": {
+                "ratingValue": 5.7
+            },
+            "genre": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "datePublished": "2021-09-21",
+            "director": [
+                {
+                    "name": "Daniel Stamm"
+                }
+            ]
+        }
+    },
+    {
+        "title": "137. The Fourth Kind",
+        "url": "https://www.imdb.com/title/tt1220198/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Fourth Kind",
+            "description": "A thriller involving an ongoing unsolved mystery in Alaska, where one town has seen an extraordinary number of unexplained disappearances during the past 40 years and there are accusations of a federal cover up.",
+            "aggregateRating": {
+                "ratingValue": 5.9
+            },
+            "genre": [
+                "Horror",
+                "Mystery",
+                "Sci-Fi"
+            ],
+            "datePublished": "2009-11-06",
+            "director": [
+                {
+                    "name": "Olatunde Osunsanmi"
+                }
+            ]
+        }
+    },
+    {
+        "title": "138. The Last House on the Left",
+        "url": "https://www.imdb.com/title/tt0844708/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Last House on the Left",
+            "description": "After kidnapping and brutally assaulting two young women, a gang unknowingly finds refuge at a vacation home belonging to the parents of one of the victims: a mother and father who devise an increasingly gruesome series of revenge...",
+            "aggregateRating": {
+                "ratingValue": 6.5
+            },
+            "genre": [
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": "2009-03-13",
+            "director": [
+                {
+                    "name": "Dennis Iliadis"
+                }
+            ]
+        }
+    },
+    {
+        "title": "139. Dog Soldiers",
+        "url": "https://www.imdb.com/title/tt0280609/",
+        "description": {
+            "@type": "Movie",
+            "name": "Dog Soldiers",
+            "description": "A routine military exercise turns into a nightmare in the Scottish wilderness.",
+            "aggregateRating": {
+                "ratingValue": 6.8
+            },
+            "genre": [
+                "Action",
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": "2002-05-10",
+            "director": [
+                {
+                    "name": "Neil Marshall"
+                }
+            ]
+        }
+    },
+    {
+        "title": "140. Salem's Lot",
+        "url": "https://www.imdb.com/title/tt0079844/",
+        "description": {
+            "@type": "TVSeries",
+            "name": "Salem&apos;s Lot",
+            "description": "A novelist and a young horror fan attempt to save a small New England town which has been invaded by vampires.",
+            "aggregateRating": {
+                "ratingValue": 6.7
+            },
+            "genre": [
+                "Horror"
+            ],
+            "datePublished": "1979-11-17",
+            "director": []
+        }
+    },
+    {
+        "title": "141. Bug",
+        "url": "https://www.imdb.com/title/tt0470705/",
+        "description": {
+            "@type": "Movie",
+            "name": "Bug",
+            "description": "An unhinged war veteran holes up with a lonely woman in a spooky Oklahoma motel room. The line between reality and delusion is blurred as they discover a bug infestation.",
+            "aggregateRating": {
+                "ratingValue": 6.1
+            },
+            "genre": [
+                "Drama",
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": "2007-05-25",
+            "director": [
+                {
+                    "name": "William Friedkin"
+                }
+            ]
+        }
+    },
+    {
+        "title": "142. The Purge",
+        "url": "https://www.imdb.com/title/tt2184339/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Purge",
+            "description": "A wealthy family is held hostage for harboring the target of a murderous syndicate during the Purge, a 12-hour period in which any and all crime is legal.",
+            "aggregateRating": {
+                "ratingValue": 5.7
+            },
+            "genre": [
+                "Horror",
+                "Sci-Fi",
+                "Thriller"
+            ],
+            "datePublished": "2019-03-08",
+            "director": [
+                {
+                    "name": "James DeMonaco"
+                }
+            ]
+        }
+    },
+    {
+        "title": "143. Frozen",
+        "url": "https://www.imdb.com/title/tt1323045/",
+        "description": {
+            "@type": "Movie",
+            "name": "Frozen",
+            "description": "Three skiers stranded on a chairlift are forced to make life-or-death choices, which prove more perilous than staying put and freezing to death.",
+            "aggregateRating": {
+                "ratingValue": 6.2
+            },
+            "genre": [
+                "Adventure",
+                "Thriller"
+            ],
+            "datePublished": "2010-03-25",
+            "director": [
+                {
+                    "name": "Adam Green"
+                }
+            ]
+        }
+    },
+    {
+        "title": "144. The Crazies",
+        "url": "https://www.imdb.com/title/tt0455407/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Crazies",
+            "description": "After a strange and insecure plane crash, an unusual toxic virus enters a quaint farming town. A young couple are quarantined, but they fight for survival along with help from a couple of people.",
+            "aggregateRating": {
+                "ratingValue": 6.5
+            },
+            "genre": [
+                "Horror"
+            ],
+            "datePublished": "2010-02-26",
+            "director": [
+                {
+                    "name": "Breck Eisner"
+                }
+            ]
+        }
+    },
+    {
+        "title": "145. Deliverance",
+        "url": "https://www.imdb.com/title/tt0068473/",
+        "description": {
+            "@type": "Movie",
+            "name": "Deliverance",
+            "description": "Intent on seeing the Cahulawassee River before it&apos;s dammed and turned into a lake, outdoor fanatic Lewis Medlock takes his friends on a canoeing trip they&apos;ll never forget into the dangerous American back-country.",
+            "aggregateRating": {
+                "ratingValue": 7.6
+            },
+            "genre": [
+                "Adventure",
+                "Drama",
+                "Thriller"
+            ],
+            "datePublished": null,
+            "director": [
+                {
+                    "name": "John Boorman"
+                }
+            ]
+        }
+    },
+    {
+        "title": "146. Blood",
+        "url": "https://www.imdb.com/title/tt0190273/",
+        "description": {
+            "@type": "Movie",
+            "name": "Blood",
+            "description": "20 years ago, Carl was responsible for genetically engineering a girl with narcotic blood. Now he&apos;s brought her home - and the boundaries between love and addiction are becoming increasingly blurred.",
+            "aggregateRating": {
+                "ratingValue": 5
+            },
+            "genre": [
+                "Horror"
+            ],
+            "datePublished": "2000-05-25",
+            "director": [
+                {
+                    "name": "Charly Cantor"
+                }
+            ]
+        }
+    },
+    {
+        "title": "147. Deep Blue Sea",
+        "url": "https://www.imdb.com/title/tt0149261/",
+        "description": {
+            "@type": "Movie",
+            "name": "Deep Blue Sea",
+            "description": "Searching for a cure to Alzheimer&apos;s disease, a group of scientists on an isolated research facility become the prey, as a trio of intelligent sharks fight back.",
+            "aggregateRating": {
+                "ratingValue": 5.9
+            },
+            "genre": [
+                "Action",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "datePublished": "1999-10-27",
+            "director": [
+                {
+                    "name": "Renny Harlin"
+                }
+            ]
+        }
+    },
+    {
+        "title": "148. The Host",
+        "url": "https://www.imdb.com/title/tt0468492/",
+        "description": {
+            "@type": "Movie",
+            "name": "Gwoemul",
+            "description": "A monster emerges from Seoul&apos;s Han River and begins attacking people. One victim&apos;s loving family does what it can to rescue her from its clutches.",
+            "aggregateRating": {
+                "ratingValue": 7.1
+            },
+            "genre": [
+                "Drama",
+                "Horror",
+                "Sci-Fi"
+            ],
+            "datePublished": "2017-10-04",
+            "director": [
+                {
+                    "name": "Bong Joon Ho"
+                }
+            ]
+        }
+    },
+    {
+        "title": "149. Mirrors",
+        "url": "https://www.imdb.com/title/tt0790686/",
+        "description": {
+            "@type": "Movie",
+            "name": "Mirrors",
+            "description": "Ben guards a partly-destroyed property by night but begins to see strange images in its impeccable mirrors. After his sister is killed, he is convinced that evil forces are out to get him.",
+            "aggregateRating": {
+                "ratingValue": 6.1
+            },
+            "genre": [
+                "Horror",
+                "Mystery"
+            ],
+            "datePublished": "2008-11-21",
+            "director": [
+                {
+                    "name": "Alexandre Aja"
+                }
+            ]
+        }
+    },
+    {
+        "title": "150. Black Sabbath",
+        "url": "https://www.imdb.com/title/tt0057603/",
+        "description": {
+            "@type": "Movie",
+            "name": "I tre volti della paura",
+            "description": "Boris Karloff hosts a trio of horror stories about a stalked call girl, a vampire-like monster who preys on his family, and a nurse who is haunted by her ring&apos;s rightful owner.",
+            "aggregateRating": {
+                "ratingValue": 7
+            },
+            "genre": [
+                "Horror"
+            ],
+            "datePublished": "1963-08-23",
+            "director": [
+                {
+                    "name": "Mario Bava"
+                }
+            ]
+        }
+    },
+    {
+        "title": "151. Ginger Snaps",
+        "url": "https://www.imdb.com/title/tt0210070/",
+        "description": {
+            "@type": "Movie",
+            "name": "Ginger Snaps",
+            "description": "Two death-obsessed sisters, outcasts in their suburban neighborhood, must deal with the tragic consequences when one of them is bitten by a deadly werewolf.",
+            "aggregateRating": {
+                "ratingValue": 6.8
+            },
+            "genre": [
+                "Drama",
+                "Fantasy",
+                "Horror"
+            ],
+            "datePublished": "2001-05-11",
+            "director": [
+                {
+                    "name": "John Fawcett"
+                }
+            ]
+        }
+    },
+    {
+        "title": "152. Frankenstein",
+        "url": "https://www.imdb.com/title/tt0109836/",
+        "description": {
+            "@type": "Movie",
+            "name": "Mary Shelley&apos;s Frankenstein",
+            "description": "When the brilliant but unorthodox scientist Dr. Victor Frankenstein rejects the artificial man that he has created, the Creature escapes and later swears revenge.",
+            "aggregateRating": {
+                "ratingValue": 6.3
+            },
+            "genre": [
+                "Drama",
+                "Horror",
+                "Romance"
+            ],
+            "datePublished": "1994-11-04",
+            "director": [
+                {
+                    "name": "Kenneth Branagh"
+                }
+            ]
+        }
+    },
+    {
+        "title": "153. Monkey Shines",
+        "url": "https://www.imdb.com/title/tt0095652/",
+        "description": {
+            "@type": "Movie",
+            "name": "Monkey Shines",
+            "description": "A quadriplegic man has a trained monkey help him with his paralysis, until the little monkey begins to develop feelings, and rage, against its new master.",
+            "aggregateRating": {
+                "ratingValue": 6.2
+            },
+            "genre": [
+                "Drama",
+                "Horror",
+                "Sci-Fi"
+            ],
+            "datePublished": null,
+            "director": [
+                {
+                    "name": "George A. Romero"
+                }
+            ]
+        }
+    },
+    {
+        "title": "154. The Gift",
+        "url": "https://www.imdb.com/title/tt4178092/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Gift",
+            "description": "A married couple, Simon and Robyn, run into Gordo, an old classmate. Things take a turn when Gordo begins to drop in unannounced at their house and inundates them with mysterious gifts.",
+            "aggregateRating": {
+                "ratingValue": 7
+            },
+            "genre": [
+                "Drama",
+                "Mystery",
+                "Thriller"
+            ],
+            "datePublished": "2017-10-04",
+            "director": [
+                {
+                    "name": "Joel Edgerton"
+                }
+            ]
+        }
+    },
+    {
+        "title": "155. Black Sunday",
+        "url": "https://www.imdb.com/title/tt0054067/",
+        "description": {
+            "@type": "Movie",
+            "name": "La maschera del demonio",
+            "description": "Decades after being executed for witchcraft, vengeful Princess Asa Vajda and her fiendish servant are resurrected and begin a bloody campaign to possess the body of Asa Vajda&apos;s beautiful look-alike descendant Princess Katia.",
+            "aggregateRating": {
+                "ratingValue": 7.1
+            },
+            "genre": [
+                "Horror"
+            ],
+            "datePublished": "1960-08-12",
+            "director": [
+                {
+                    "name": "Mario Bava"
+                }
+            ]
+        }
+    },
+    {
+        "title": "156. The Changeling",
+        "url": "https://www.imdb.com/title/tt0080516/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Changeling",
+            "description": "After experiencing tragic personal losses, a music professor rents a Seattle mansion, haunted by a slain boy.",
+            "aggregateRating": {
+                "ratingValue": 7.1
+            },
+            "genre": [
+                "Horror",
+                "Mystery"
+            ],
+            "datePublished": "1980-03-28",
+            "director": [
+                {
+                    "name": "Peter Medak"
+                }
+            ]
+        }
+    },
+    {
+        "title": "157. Case 39",
+        "url": "https://www.imdb.com/title/tt0795351/",
+        "description": {
+            "@type": "Movie",
+            "name": "Case 39",
+            "description": "A social worker fights to save a girl from her abusive parents, only to discover that the situation is more dangerous than she expected.",
+            "aggregateRating": {
+                "ratingValue": 6.2
+            },
+            "genre": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "datePublished": "2018-12-31",
+            "director": [
+                {
+                    "name": "Christian Alvart"
+                }
+            ]
+        }
+    },
+    {
+        "title": "158. Cat's Eye",
+        "url": "https://www.imdb.com/title/tt0088889/",
+        "description": {
+            "@type": "Movie",
+            "name": "Cat&apos;s Eye",
+            "description": "A stray cat is the linking element of three tales of suspense and horror.",
+            "aggregateRating": {
+                "ratingValue": 6.3
+            },
+            "genre": [
+                "Comedy",
+                "Drama",
+                "Horror"
+            ],
+            "datePublished": "1985-04-12",
+            "director": [
+                {
+                    "name": "Lewis Teague"
+                }
+            ]
+        }
+    },
+    {
+        "title": "159. Phenomena",
+        "url": "https://www.imdb.com/title/tt0087909/",
+        "description": {
+            "@type": "Movie",
+            "name": "Phenomena",
+            "description": "A young girl who has an amazing ability to communicate with insects is transferred to an exclusive Swiss boarding school, where her unusual capability might help solve a string of murders.",
+            "aggregateRating": {
+                "ratingValue": 6.7
+            },
+            "genre": [
+                "Crime",
+                "Horror",
+                "Mystery"
+            ],
+            "datePublished": "1985-01-31",
+            "director": [
+                {
+                    "name": "Dario Argento"
+                }
+            ]
+        }
+    },
+    {
+        "title": "160. Bride of Frankenstein",
+        "url": "https://www.imdb.com/title/tt0026138/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Bride of Frankenstein",
+            "description": "Mary Shelley reveals the main characters of her novel survived: Baron Henry Frankenstein, goaded by an even madder scientist, builds his monster a mate.",
+            "aggregateRating": {
+                "ratingValue": 7.8
+            },
+            "genre": [
+                "Drama",
+                "Horror",
+                "Sci-Fi"
+            ],
+            "datePublished": "1935-05-06",
+            "director": [
+                {
+                    "name": "James Whale"
+                }
+            ]
+        }
+    },
+    {
+        "title": "161. I Saw the Devil",
+        "url": "https://www.imdb.com/title/tt1588170/",
+        "description": {
+            "@type": "Movie",
+            "name": "Angmareul boatda",
+            "description": "A secret agent exacts revenge on a serial killer through a series of captures and releases.",
+            "aggregateRating": {
+                "ratingValue": 7.8
+            },
+            "genre": [
+                "Action",
+                "Thriller"
+            ],
+            "datePublished": "2010-08-12",
+            "director": [
+                {
+                    "name": "Kim Jee-woon"
+                }
+            ]
+        }
+    },
+    {
+        "title": "162. The Good Son",
+        "url": "https://www.imdb.com/title/tt0107034/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Good Son",
+            "description": "A young boy stays with his aunt and uncle and becomes friends with his cousin, a boy of the same age who shows increasing signs of violent and psychopathic behavior.",
+            "aggregateRating": {
+                "ratingValue": 6.4
+            },
+            "genre": [
+                "Drama",
+                "Thriller"
+            ],
+            "datePublished": "1993-09-24",
+            "director": [
+                {
+                    "name": "Joseph Ruben"
+                }
+            ]
+        }
+    },
+    {
+        "title": "163. White Dog",
+        "url": "https://www.imdb.com/title/tt0084899/",
+        "description": {
+            "@type": "Movie",
+            "name": "White Dog",
+            "description": "A trainer attempts to retrain a vicious dog that&apos;s been raised to attack black people.",
+            "aggregateRating": {
+                "ratingValue": 7
+            },
+            "genre": [
+                "Drama",
+                "Horror"
+            ],
+            "datePublished": "1982-07-07",
+            "director": [
+                {
+                    "name": "Samuel Fuller"
+                }
+            ]
+        }
+    },
+    {
+        "title": "164. You're Next",
+        "url": "https://www.imdb.com/title/tt1853739/",
+        "description": {
+            "@type": "Movie",
+            "name": "You&apos;re Next",
+            "description": "When the Davison family comes under attack during their wedding anniversary getaway, the gang of mysterious killers soon learns that one of the victims harbors a secret talent for fighting back.",
+            "aggregateRating": {
+                "ratingValue": 6.6
+            },
+            "genre": [
+                "Drama",
+                "Horror",
+                "Mystery"
+            ],
+            "datePublished": "2013-08-23",
+            "director": [
+                {
+                    "name": "Adam Wingard"
+                }
+            ]
+        }
+    },
+    {
+        "title": "165. Wolfen",
+        "url": "https://www.imdb.com/title/tt0083336/",
+        "description": {
+            "@type": "Movie",
+            "name": "Wolfen",
+            "description": "A New York cop investigates a series of brutal deaths that resemble animal attacks.",
+            "aggregateRating": {
+                "ratingValue": 6.3
+            },
+            "genre": [
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": "1981-07-24",
+            "director": [
+                {
+                    "name": "Michael Wadleigh"
+                }
+            ]
+        }
+    },
+    {
+        "title": "166. Tusk",
+        "url": "https://www.imdb.com/title/tt3099498/",
+        "description": {
+            "@type": "Movie",
+            "name": "Tusk",
+            "description": "A brash and arrogant podcaster gets more than he bargained for when he travels to Canada to interview a mysterious recluse... who has a rather disturbing fondness for walruses.",
+            "aggregateRating": {
+                "ratingValue": 5.4
+            },
+            "genre": [
+                "Comedy",
+                "Horror"
+            ],
+            "datePublished": "2021-07-01",
+            "director": [
+                {
+                    "name": "Kevin Smith"
+                }
+            ]
+        }
+    },
+    {
+        "title": "167. The Girl Next Door",
+        "url": "https://www.imdb.com/title/tt0830558/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Girl Next Door",
+            "description": "In a quiet suburban town in the summer of 1958, two recently orphaned sisters are placed in the care of their mentally unstable Aunt Ruth. But Ruth&apos;s depraved sense of discipline will soon lead to unspeakable acts of abuse and tor...",
+            "aggregateRating": {
+                "ratingValue": 6.5
+            },
+            "genre": [
+                "Crime",
+                "Drama",
+                "Horror"
+            ],
+            "datePublished": "2008-10-17",
+            "director": [
+                {
+                    "name": "Gregory Wilson"
+                }
+            ]
+        }
+    },
+    {
+        "title": "168. Thesis",
+        "url": "https://www.imdb.com/title/tt0117883/",
+        "description": {
+            "@type": "Movie",
+            "name": "Tesis",
+            "description": "While doing a thesis about violence, \u00c1ngela finds a snuff video where a girl is tortured until death. Soon she discovers that the girl was a former student in her faculty...",
+            "aggregateRating": {
+                "ratingValue": 7.4
+            },
+            "genre": [
+                "Crime",
+                "Horror",
+                "Mystery"
+            ],
+            "datePublished": "1996-04-12",
+            "director": [
+                {
+                    "name": "Alejandro Amen\u00e1bar"
+                }
+            ]
+        }
+    },
+    {
+        "title": "169. Cemetery Man",
+        "url": "https://www.imdb.com/title/tt0109592/",
+        "description": {
+            "@type": "Movie",
+            "name": "Dellamorte dellamore",
+            "description": "A cemetery man must kill the dead a second time when they become zombies.",
+            "aggregateRating": {
+                "ratingValue": 7
+            },
+            "genre": [
+                "Comedy",
+                "Horror"
+            ],
+            "datePublished": "1994-03-25",
+            "director": [
+                {
+                    "name": "Michele Soavi"
+                }
+            ]
+        }
+    },
+    {
+        "title": "170. Zombie",
+        "url": "https://www.imdb.com/title/tt0080057/",
+        "description": {
+            "@type": "Movie",
+            "name": "Zombi 2",
+            "description": "Strangers searching for a young woman&apos;s missing father arrive at a tropical island where a doctor desperately seeks the cause and cure of a recent epidemic of the undead.",
+            "aggregateRating": {
+                "ratingValue": 6.8
+            },
+            "genre": [
+                "Horror"
+            ],
+            "datePublished": "1979-08-25",
+            "director": [
+                {
+                    "name": "Lucio Fulci"
+                }
+            ]
+        }
+    },
+    {
+        "title": "171. The Faculty",
+        "url": "https://www.imdb.com/title/tt0133751/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Faculty",
+            "description": "When Casey Connor, Herrington High School&apos;s newspaper photographer, witnesses the murder of a nurse and sees her alive again, he decides to investigate the bizarre happenings.",
+            "aggregateRating": {
+                "ratingValue": 6.6
+            },
+            "genre": [
+                "Horror",
+                "Mystery",
+                "Sci-Fi"
+            ],
+            "datePublished": "1998-12-25",
+            "director": [
+                {
+                    "name": "Robert Rodriguez"
+                }
+            ]
+        }
+    },
+    {
+        "title": "172. It Comes at Night",
+        "url": "https://www.imdb.com/title/tt4695012/",
+        "description": {
+            "@type": "Movie",
+            "name": "It Comes at Night",
+            "description": "Secure within a desolate home as an unnatural threat terrorizes the world, a man has established a tenuous domestic order with his wife and son. Then a desperate young family arrives seeking refuge.",
+            "aggregateRating": {
+                "ratingValue": 6.1
+            },
+            "genre": [
+                "Drama",
+                "Horror",
+                "Mystery"
+            ],
+            "datePublished": "2017-06-09",
+            "director": [
+                {
+                    "name": "Trey Edward Shults"
+                }
+            ]
+        }
+    },
+    {
+        "title": "173. The Day of the Beast",
+        "url": "https://www.imdb.com/title/tt0112922/",
+        "description": {
+            "@type": "Movie",
+            "name": "El d\u00eda de la bestia",
+            "description": "Bent on committing as many sins as possible to avert the birth of the beast, a Catholic priest teams up with a Black Metal aficionado and an Italian connoisseur of the occult. Now, he must become an unrelenting sinner. Is there st...",
+            "aggregateRating": {
+                "ratingValue": 7.3
+            },
+            "genre": [
+                "Action",
+                "Comedy",
+                "Crime"
+            ],
+            "datePublished": "1995-10-20",
+            "director": [
+                {
+                    "name": "\u00c1lex de la Iglesia"
+                }
+            ]
+        }
+    },
+    {
+        "title": "174. The Entity",
+        "url": "https://www.imdb.com/title/tt0082334/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Entity",
+            "description": "A woman is tormented by an invisible being.",
+            "aggregateRating": {
+                "ratingValue": 6.7
+            },
+            "genre": [
+                "Drama",
+                "Horror"
+            ],
+            "datePublished": "1983-02-04",
+            "director": [
+                {
+                    "name": "Sidney J. Furie"
+                }
+            ]
+        }
+    },
+    {
+        "title": "175. The Attic",
+        "url": "https://www.imdb.com/title/tt0078806/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Attic",
+            "description": "A librarian devotes her life to caring for her wheelchair-bound tyrannical father after being stood up at the altar. She fantasizes about causing deaths of the men who most wronged her and finds joy only with her pet monkey. Her m...",
+            "aggregateRating": {
+                "ratingValue": 5.6
+            },
+            "genre": [
+                "Drama",
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": null,
+            "director": [
+                {
+                    "name": "George Edwards"
+                },
+                {
+                    "name": "Gary Graver"
+                }
+            ]
+        }
+    },
+    {
+        "title": "176. The Devils",
+        "url": "https://www.imdb.com/title/tt0066993/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Devils",
+            "description": "In 17th-century France, Father Urbain Grandier&apos;s protection of the city of Loudun from the corrupt Cardinal Richelieu is undermined by a sexually repressed nun&apos;s accusation of witchcraft.",
+            "aggregateRating": {
+                "ratingValue": 7.7
+            },
+            "genre": [
+                "Biography",
+                "Drama",
+                "History"
+            ],
+            "datePublished": "1971-07-16",
+            "director": [
+                {
+                    "name": "Ken Russell"
+                }
+            ]
+        }
+    },
+    {
+        "title": "177. Burial Ground: The Nights of Terror",
+        "url": "https://www.imdb.com/title/tt0081248/",
+        "description": {
+            "@type": "Movie",
+            "name": "Le notti del terrore",
+            "description": "An archaeology professor discovers an ancient crypt which contains living dead corpses. The zombies go on a rampage and attack a group of people which the professor had invited to celebrate his discovery.",
+            "aggregateRating": {
+                "ratingValue": 5.6
+            },
+            "genre": [
+                "Horror"
+            ],
+            "datePublished": "1981-07-09",
+            "director": [
+                {
+                    "name": "Andrea Bianchi"
+                }
+            ]
+        }
+    },
+    {
+        "title": "178. Dead End",
+        "url": "https://www.imdb.com/title/tt0308152/",
+        "description": {
+            "@type": "Movie",
+            "name": "Dead End",
+            "description": "Christmas Eve. On his way to his in-laws with his family, Frank Harrington decides to try a shortcut, for the first time in 20 years. It turns out to be the biggest mistake of his life.",
+            "aggregateRating": {
+                "ratingValue": 6.5
+            },
+            "genre": [
+                "Adventure",
+                "Horror",
+                "Mystery"
+            ],
+            "datePublished": "2003-09-26",
+            "director": [
+                {
+                    "name": "Jean-Baptiste Andrea"
+                },
+                {
+                    "name": "Fabrice Canepa"
+                }
+            ]
+        }
+    },
+    {
+        "title": "179. Pandorum",
+        "url": "https://www.imdb.com/title/tt1188729/",
+        "description": {
+            "@type": "Movie",
+            "name": "Pandorum",
+            "description": "Two crew members of a spaceship wake up from hypersleep to discover that all their colleagues are missing. Despite this, it appears that they are not alone.",
+            "aggregateRating": {
+                "ratingValue": 6.7
+            },
+            "genre": [
+                "Action",
+                "Horror",
+                "Mystery"
+            ],
+            "datePublished": "2009-10-01",
+            "director": [
+                {
+                    "name": "Christian Alvart"
+                }
+            ]
+        }
+    },
+    {
+        "title": "180. The Vault of Horror",
+        "url": "https://www.imdb.com/title/tt0070868/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Vault of Horror",
+            "description": "An anthology of five horror stories shared by five men trapped in the basement of an office building.",
+            "aggregateRating": {
+                "ratingValue": 6.5
+            },
+            "genre": [
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": "1973-03-30",
+            "director": [
+                {
+                    "name": "Roy Ward Baker"
+                }
+            ]
+        }
+    },
+    {
+        "title": "181. Firestarter",
+        "url": "https://www.imdb.com/title/tt0087262/",
+        "description": {
+            "@type": "Movie",
+            "name": "Firestarter",
+            "description": "A couple who participated in a potent medical experiment gain telepathic ability and then have a child who is pyrokinetic.",
+            "aggregateRating": {
+                "ratingValue": 6.1
+            },
+            "genre": [
+                "Action",
+                "Horror",
+                "Sci-Fi"
+            ],
+            "datePublished": null,
+            "director": [
+                {
+                    "name": "Mark L. Lester"
+                }
+            ]
+        }
+    },
+    {
+        "title": "182. Nightwatch",
+        "url": "https://www.imdb.com/title/tt0110631/",
+        "description": {
+            "@type": "Movie",
+            "name": "Nattevagten",
+            "description": "A law student starts working as a night watchman at The Department of Forensic Medicine in Copenhagen. His mad friend gets him on a game of dare that escalates. As a serial-killer&apos;s victims start piling up at work, he becomes a su...",
+            "aggregateRating": {
+                "ratingValue": 7.2
+            },
+            "genre": [
+                "Thriller"
+            ],
+            "datePublished": "1994-02-25",
+            "director": [
+                {
+                    "name": "Ole Bornedal"
+                }
+            ]
+        }
+    },
+    {
+        "title": "183. Shutter",
+        "url": "https://www.imdb.com/title/tt0440803/",
+        "description": {
+            "@type": "Movie",
+            "name": "Shutter",
+            "description": "When Jane and Tun run over a girl in a car accident, they speed away immediately from the crime scene. However, Tun, a photographer, soon discovers strange shadows in his photos, which unsettles them.",
+            "aggregateRating": {
+                "ratingValue": 7
+            },
+            "genre": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "datePublished": "2018-09-04",
+            "director": [
+                {
+                    "name": "Banjong Pisanthanakun"
+                },
+                {
+                    "name": "Parkpoom Wongpoom"
+                }
+            ]
+        }
+    },
+    {
+        "title": "184. High Tension",
+        "url": "https://www.imdb.com/title/tt0338095/",
+        "description": {
+            "@type": "Movie",
+            "name": "Haute tension",
+            "description": "Best friends Marie and Alexia decide to spend a quiet weekend at Alexia&apos;s parents&apos; secluded farmhouse. But on the night of their arrival, the girls&apos; idyllic getaway turns into an endless night of horror.",
+            "aggregateRating": {
+                "ratingValue": 6.7
+            },
+            "genre": [
+                "Horror"
+            ],
+            "datePublished": "2003-06-18",
+            "director": [
+                {
+                    "name": "Alexandre Aja"
+                }
+            ]
+        }
+    },
+    {
+        "title": "185. Shivers",
+        "url": "https://www.imdb.com/title/tt0073705/",
+        "description": {
+            "@type": "Movie",
+            "name": "Shivers",
+            "description": "The residents of a suburban high-rise apartment building are infected by parasites that turn them into mindless nymphomaniac fiends.",
+            "aggregateRating": {
+                "ratingValue": 6.3
+            },
+            "genre": [
+                "Horror",
+                "Sci-Fi"
+            ],
+            "datePublished": "1975-10-10",
+            "director": [
+                {
+                    "name": "David Cronenberg"
+                }
+            ]
+        }
+    },
+    {
+        "title": "186. Ghost Ship",
+        "url": "https://www.imdb.com/title/tt0288477/",
+        "description": {
+            "@type": "Movie",
+            "name": "Ghost Ship",
+            "description": "A salvage crew discovers a long-lost 1962 passenger ship floating lifeless in a remote region of the Bering Sea, and soon notices that its long-dead inhabitants may still be on board.",
+            "aggregateRating": {
+                "ratingValue": 5.6
+            },
+            "genre": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "datePublished": "2002-10-25",
+            "director": [
+                {
+                    "name": "Steve Beck"
+                }
+            ]
+        }
+    },
+    {
+        "title": "187. The Cellar Door",
+        "url": "https://www.imdb.com/title/tt0878657/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Cellar Door",
+            "description": "The girl next door, having coffee, lunch with a friend, shopping, unaware she is becoming an obsession. She has been chosen. A young woman awakes to find herself imprisoned in a serial killer&apos;s basement. She is not the first to be...",
+            "aggregateRating": {
+                "ratingValue": 4.1
+            },
+            "genre": [
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": null,
+            "director": [
+                {
+                    "name": "Matt Zettell"
+                }
+            ]
+        }
+    },
+    {
+        "title": "188. Maniac Cop",
+        "url": "https://www.imdb.com/title/tt0095583/",
+        "description": {
+            "@type": "Movie",
+            "name": "Maniac Cop",
+            "description": "A killer dressed in a police uniform begins murdering innocent people on the streets of New York City.",
+            "aggregateRating": {
+                "ratingValue": 6
+            },
+            "genre": [
+                "Action",
+                "Crime",
+                "Horror"
+            ],
+            "datePublished": "1988-05-13",
+            "director": [
+                {
+                    "name": "William Lustig"
+                }
+            ]
+        }
+    },
+    {
+        "title": "189. Gutterballs",
+        "url": "https://www.imdb.com/title/tt1087853/",
+        "description": {
+            "@type": "Movie",
+            "name": "Gutterballs",
+            "description": "A bowling night will turn into a bloody death match for a team of teenagers, as a deranged serial killer is taking them down one by one.",
+            "aggregateRating": {
+                "ratingValue": 4.5
+            },
+            "genre": [
+                "Comedy",
+                "Horror",
+                "Sport"
+            ],
+            "datePublished": "2008-01-18",
+            "director": [
+                {
+                    "name": "Ryan Nicholson"
+                }
+            ]
+        }
+    },
+    {
+        "title": "190. Eraserhead",
+        "url": "https://www.imdb.com/title/tt0074486/",
+        "description": {
+            "@type": "Movie",
+            "name": "Eraserhead",
+            "description": "Henry Spencer tries to survive his industrial environment, his angry girlfriend, and the unbearable screams of his newborn mutant child.",
+            "aggregateRating": {
+                "ratingValue": 7.3
+            },
+            "genre": [
+                "Fantasy",
+                "Horror"
+            ],
+            "datePublished": "1978-02-03",
+            "director": [
+                {
+                    "name": "David Lynch"
+                }
+            ]
+        }
+    },
+    {
+        "title": "191. Videodrome",
+        "url": "https://www.imdb.com/title/tt0086541/",
+        "description": {
+            "@type": "Movie",
+            "name": "Videodrome",
+            "description": "A programmer at a Toronto TV station that specializes in adult entertainment searches for the producers of a dangerous and bizarre broadcast.",
+            "aggregateRating": {
+                "ratingValue": 7.2
+            },
+            "genre": [
+                "Drama",
+                "Horror",
+                "Sci-Fi"
+            ],
+            "datePublished": "1983-02-04",
+            "director": [
+                {
+                    "name": "David Cronenberg"
+                }
+            ]
+        }
+    },
+    {
+        "title": "192. Prom Night",
+        "url": "https://www.imdb.com/title/tt0081383/",
+        "description": {
+            "@type": "Movie",
+            "name": "Prom Night",
+            "description": "At a high-school senior prom, a masked killer stalks four teenagers who were responsible for the accidental death of a classmate six years previously.",
+            "aggregateRating": {
+                "ratingValue": 5.3
+            },
+            "genre": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "datePublished": "1980-09-12",
+            "director": [
+                {
+                    "name": "Paul Lynch"
+                }
+            ]
+        }
+    },
+    {
+        "title": "193. Wishmaster",
+        "url": "https://www.imdb.com/title/tt0120524/",
+        "description": {
+            "@type": "Movie",
+            "name": "Wishmaster",
+            "description": "A demonic djinn attempts to grant its owner three wishes, which will allow him to summon his brethren to Earth.",
+            "aggregateRating": {
+                "ratingValue": 5.8
+            },
+            "genre": [
+                "Fantasy",
+                "Horror"
+            ],
+            "datePublished": "1997-09-19",
+            "director": [
+                {
+                    "name": "Robert Kurtzman"
+                }
+            ]
+        }
+    },
+    {
+        "title": "194. Sinister",
+        "url": "https://www.imdb.com/title/tt1922777/",
+        "description": {
+            "@type": "Movie",
+            "name": "Sinister",
+            "description": "A controversial true-crime writer finds a box of Super 8 home movies in his new home, revealing that the murder case he is currently researching could be the work of an unknown serial killer whose legacy dates back to the 1960s.",
+            "aggregateRating": {
+                "ratingValue": 6.8
+            },
+            "genre": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "datePublished": "2019-09-15",
+            "director": [
+                {
+                    "name": "Scott Derrickson"
+                }
+            ]
+        }
+    },
+    {
+        "title": "195. 13 Ghosts",
+        "url": "https://www.imdb.com/title/tt0053559/",
+        "description": {
+            "@type": "Movie",
+            "name": "13 Ghosts",
+            "description": "A family inherits a house with 12 ghosts who want a 13th.",
+            "aggregateRating": {
+                "ratingValue": 6
+            },
+            "genre": [
+                "Horror",
+                "Mystery"
+            ],
+            "datePublished": null,
+            "director": [
+                {
+                    "name": "William Castle"
+                }
+            ]
+        }
+    },
+    {
+        "title": "196. Let the Right One In",
+        "url": "https://www.imdb.com/title/tt1139797/",
+        "description": {
+            "@type": "Movie",
+            "name": "L\u00e5t den r\u00e4tte komma in",
+            "description": "Oskar, an overlooked and bullied boy, finds love and revenge through Eli, a beautiful but peculiar girl.",
+            "aggregateRating": {
+                "ratingValue": 7.8
+            },
+            "genre": [
+                "Drama",
+                "Fantasy",
+                "Horror"
+            ],
+            "datePublished": "2008-10-24",
+            "director": [
+                {
+                    "name": "Tomas Alfredson"
+                }
+            ]
+        }
+    },
+    {
+        "title": "197. The Stepfather",
+        "url": "https://www.imdb.com/title/tt0094035/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Stepfather",
+            "description": "After murdering his entire family, a man marries a widow with a teenage daughter in another town and prepares to do it all over again.",
+            "aggregateRating": {
+                "ratingValue": 6.7
+            },
+            "genre": [
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": "1987-06-05",
+            "director": [
+                {
+                    "name": "Joseph Ruben"
+                }
+            ]
+        }
+    },
+    {
+        "title": "198. Horror of Dracula",
+        "url": "https://www.imdb.com/title/tt0051554/",
+        "description": {
+            "@type": "Movie",
+            "name": "Dracula",
+            "description": "When Jonathan Harker rouses the ire of Count Dracula for accepting a job at the vampire&apos;s castle under false pretenses, his friend Dr. Van Helsing pursues the predatory villain.",
+            "aggregateRating": {
+                "ratingValue": 7.2
+            },
+            "genre": [
+                "Drama",
+                "Horror"
+            ],
+            "datePublished": "1958-06-16",
+            "director": [
+                {
+                    "name": "Terence Fisher"
+                }
+            ]
+        }
+    },
+    {
+        "title": "199. No Vacancy",
+        "url": "https://www.imdb.com/title/tt1854582/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Helpers",
+            "description": "Seven friends on a road trip break down near a rest-stop motel, where they encounter a seemingly helpful group of people. Convinced to stay overnight, the friends wake up in their rooms to a gruesome and bloody terror.",
+            "aggregateRating": {
+                "ratingValue": 4.2
+            },
+            "genre": [
+                "Horror"
+            ],
+            "datePublished": "2019-05-17",
+            "director": [
+                {
+                    "name": "Chris Stokes"
+                }
+            ]
+        }
+    },
+    {
+        "title": "200. House of Wax",
+        "url": "https://www.imdb.com/title/tt0045888/",
+        "description": {
+            "@type": "Movie",
+            "name": "House of Wax",
+            "description": "An associate burns down a wax museum with the owner inside, but he survives only to become vengeful and murderous.",
+            "aggregateRating": {
+                "ratingValue": 7
+            },
+            "genre": [
+                "Horror"
+            ],
+            "datePublished": "1953-04-25",
+            "director": [
+                {
+                    "name": "Andr\u00e9 De Toth"
+                }
+            ]
+        }
+    },
+    {
+        "title": "201. Green Room",
+        "url": "https://www.imdb.com/title/tt4062536/",
+        "description": {
+            "@type": "Movie",
+            "name": "Green Room",
+            "description": "A punk rock band is forced to fight for survival after witnessing a murder at a neo-Nazi skinhead bar.",
+            "aggregateRating": {
+                "ratingValue": 7
+            },
+            "genre": [
+                "Crime",
+                "Horror",
+                "Music"
+            ],
+            "datePublished": "2016-05-13",
+            "director": [
+                {
+                    "name": "Jeremy Saulnier"
+                }
+            ]
+        }
+    },
+    {
+        "title": "202. The Houses October Built",
+        "url": "https://www.imdb.com/title/tt1958043/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Houses October Built",
+            "description": "Five friends are stalked by a group of mysterious and disturbed individuals while on a road trip looking for the ultimate haunted house attraction.",
+            "aggregateRating": {
+                "ratingValue": 5.2
+            },
+            "genre": [
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": "2014-10-10",
+            "director": [
+                {
+                    "name": "Bobby Roe"
+                }
+            ]
+        }
+    },
+    {
+        "title": "203. Drag Me to Hell",
+        "url": "https://www.imdb.com/title/tt1127180/",
+        "description": {
+            "@type": "Movie",
+            "name": "Drag Me to Hell",
+            "description": "A loan officer who evicts an old woman from her home finds herself the recipient of a supernatural curse. Desperate, she turns to a seer to try and save her soul, while evil forces work to push her to a breaking point.",
+            "aggregateRating": {
+                "ratingValue": 6.6
+            },
+            "genre": [
+                "Horror"
+            ],
+            "datePublished": "2009-05-27",
+            "director": [
+                {
+                    "name": "Sam Raimi"
+                }
+            ]
+        }
+    },
+    {
+        "title": "204. Atrocious",
+        "url": "https://www.imdb.com/title/tt1734067/",
+        "description": {
+            "@type": "Movie",
+            "name": "Atrocious",
+            "description": "Two teenage siblings endure a terrifying experience while investigating a rural legend near their family&apos;s vacation home.",
+            "aggregateRating": {
+                "ratingValue": 5
+            },
+            "genre": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "datePublished": "2012-06-16",
+            "director": [
+                {
+                    "name": "Fernando Barreda Luna"
+                }
+            ]
+        }
+    },
+    {
+        "title": "205. What Ever Happened to Baby Jane?",
+        "url": "https://www.imdb.com/title/tt0056687/",
+        "description": {
+            "@type": "Movie",
+            "name": "What Ever Happened to Baby Jane?",
+            "description": "A former vaudeville child star torments her paraplegic sister, who eclipsed her as a movie star, in their decaying Hollywood mansion while desperately clinging to hopes of a comeback.",
+            "aggregateRating": {
+                "ratingValue": 8
+            },
+            "genre": [
+                "Drama",
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": "1962-10-31",
+            "director": [
+                {
+                    "name": "Robert Aldrich"
+                }
+            ]
+        }
+    },
+    {
+        "title": "206. The Bad Seed",
+        "url": "https://www.imdb.com/title/tt0048977/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Bad Seed",
+            "description": "Rhoda Penmark seems like your average, sweet eight-year-old girl. After her rival at school dies in mysterious circumstances at the school picnic, her mother starts to suspect that Rhoda was responsible.",
+            "aggregateRating": {
+                "ratingValue": 7.4
+            },
+            "genre": [
+                "Drama",
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": "1956-09-12",
+            "director": [
+                {
+                    "name": "Mervyn LeRoy"
+                }
+            ]
+        }
+    },
+    {
+        "title": "207. The Dead Zone",
+        "url": "https://www.imdb.com/title/tt0085407/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Dead Zone",
+            "description": "A man awakens from a coma to discover he has a psychic ability to foresee future events.",
+            "aggregateRating": {
+                "ratingValue": 7.2
+            },
+            "genre": [
+                "Drama",
+                "Horror",
+                "Sci-Fi"
+            ],
+            "datePublished": "1983-10-21",
+            "director": [
+                {
+                    "name": "David Cronenberg"
+                }
+            ]
+        }
+    },
+    {
+        "title": "208. Fallen",
+        "url": "https://www.imdb.com/title/tt0119099/",
+        "description": {
+            "@type": "Movie",
+            "name": "Fallen",
+            "description": "Homicide detective John Hobbes witnesses the execution of serial killer Edgar Reese. Soon after the execution, the killings start again, and they are very similar to Reese&apos;s style.",
+            "aggregateRating": {
+                "ratingValue": 7
+            },
+            "genre": [
+                "Action",
+                "Crime",
+                "Drama"
+            ],
+            "datePublished": "1998-01-16",
+            "director": [
+                {
+                    "name": "Gregory Hoblit"
+                }
+            ]
+        }
+    },
+    {
+        "title": "209. The House of the Devil",
+        "url": "https://www.imdb.com/title/tt1172994/",
+        "description": {
+            "@type": "Movie",
+            "name": "The House of the Devil",
+            "description": "In 1983, financially struggling college student Samantha Hughes takes a strange babysitting job that coincides with a full lunar eclipse. She slowly realizes her clients harbor a terrifying secret, putting her life in mortal danger.",
+            "aggregateRating": {
+                "ratingValue": 6.3
+            },
+            "genre": [
+                "Horror",
+                "Mystery"
+            ],
+            "datePublished": "2009-04-25",
+            "director": [
+                {
+                    "name": "Ti West"
+                }
+            ]
+        }
+    },
+    {
+        "title": "210. Cat People",
+        "url": "https://www.imdb.com/title/tt0034587/",
+        "description": {
+            "@type": "Movie",
+            "name": "Cat People",
+            "description": "An American man marries a Serbian immigrant who fears that she will turn into the cat person of her homeland&apos;s fables if they are intimate together.",
+            "aggregateRating": {
+                "ratingValue": 7.2
+            },
+            "genre": [
+                "Fantasy",
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": "1942-12-25",
+            "director": [
+                {
+                    "name": "Jacques Tourneur"
+                }
+            ]
+        }
+    },
+    {
+        "title": "211. Night of the Demons",
+        "url": "https://www.imdb.com/title/tt0093624/",
+        "description": {
+            "@type": "Movie",
+            "name": "Night of the Demons",
+            "description": "Ten teenagers party at an abandoned funeral parlor on Halloween night. When an evil force awakens, demonic spirits keep them from leaving and turn their gathering into a living Hell.",
+            "aggregateRating": {
+                "ratingValue": 6.1
+            },
+            "genre": [
+                "Comedy",
+                "Fantasy",
+                "Horror"
+            ],
+            "datePublished": "1988-10-14",
+            "director": [
+                {
+                    "name": "Kevin Tenney"
+                }
+            ]
+        }
+    },
+    {
+        "title": "212. The Orphanage",
+        "url": "https://www.imdb.com/title/tt0464141/",
+        "description": {
+            "@type": "Movie",
+            "name": "El orfanato",
+            "description": "A woman brings her family back to her childhood home, which used to be an orphanage for handicapped children. Before long, her son starts to communicate with an invisible new friend.",
+            "aggregateRating": {
+                "ratingValue": 7.4
+            },
+            "genre": [
+                "Drama",
+                "Horror",
+                "Mystery"
+            ],
+            "datePublished": "2008-08-15",
+            "director": [
+                {
+                    "name": "J.A. Bayona"
+                }
+            ]
+        }
+    },
+    {
+        "title": "213. The Eye",
+        "url": "https://www.imdb.com/title/tt0325655/",
+        "description": {
+            "@type": "Movie",
+            "name": "Gin gwai",
+            "description": "A blind girl gets a cornea transplant so that she will be able to see again. She gets more than she bargained for upon realizing she can also see ghosts.",
+            "aggregateRating": {
+                "ratingValue": 6.6
+            },
+            "genre": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "datePublished": "2002-05-09",
+            "director": [
+                {
+                    "name": "Danny Pang"
+                },
+                {
+                    "name": "Oxide Chun Pang"
+                }
+            ]
+        }
+    },
+    {
+        "title": "214. Constantine",
+        "url": "https://www.imdb.com/title/tt0360486/",
+        "description": {
+            "@type": "Movie",
+            "name": "Constantine",
+            "description": "Detective Angela approaches Constantine, a demon hunter, to help her investigate her twin sister&apos;s mysterious death. As he digs deeper, he realizes that demons are trying to enter the human world.",
+            "aggregateRating": {
+                "ratingValue": 7
+            },
+            "genre": [
+                "Action",
+                "Fantasy",
+                "Horror"
+            ],
+            "datePublished": "2005-02-25",
+            "director": [
+                {
+                    "name": "Francis Lawrence"
+                }
+            ]
+        }
+    },
+    {
+        "title": "215. Intruder",
+        "url": "https://www.imdb.com/title/tt0095379/",
+        "description": {
+            "@type": "Movie",
+            "name": "Intruder",
+            "description": "The overnight stock crew of a local supermarket find themselves being stalked and slashed by a mysterious maniac.",
+            "aggregateRating": {
+                "ratingValue": 6.1
+            },
+            "genre": [
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": "1989-01-13",
+            "director": [
+                {
+                    "name": "Scott Spiegel"
+                }
+            ]
+        }
+    },
+    {
+        "title": "216. Prince of Darkness",
+        "url": "https://www.imdb.com/title/tt0093777/",
+        "description": {
+            "@type": "Movie",
+            "name": "Prince of Darkness",
+            "description": "A group of graduate students and scientists uncover an ancient canister in an abandoned church, but when they open the container, they inadvertently unleash a strange liquid and an evil force on all humanity.",
+            "aggregateRating": {
+                "ratingValue": 6.7
+            },
+            "genre": [
+                "Horror"
+            ],
+            "datePublished": "1987-10-23",
+            "director": [
+                {
+                    "name": "John Carpenter"
+                }
+            ]
+        }
+    },
+    {
+        "title": "217. Pontypool",
+        "url": "https://www.imdb.com/title/tt1226681/",
+        "description": {
+            "@type": "Movie",
+            "name": "Pontypool",
+            "description": "A radio host interprets the possible outbreak of a deadly virus which infects the small Ontario town he is stationed in.",
+            "aggregateRating": {
+                "ratingValue": 6.5
+            },
+            "genre": [
+                "Horror",
+                "Sci-Fi"
+            ],
+            "datePublished": "2009-09-18",
+            "director": [
+                {
+                    "name": "Bruce McDonald"
+                }
+            ]
+        }
+    },
+    {
+        "title": "218. The Others",
+        "url": "https://www.imdb.com/title/tt0230600/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Others",
+            "description": "In 1945, immediately following the end of Second World War, a woman who lives with her two photosensitive children on her darkened old family estate in the Channel Islands becomes convinced that the home is haunted.",
+            "aggregateRating": {
+                "ratingValue": 7.6
+            },
+            "genre": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "datePublished": "2020-12-30",
+            "director": [
+                {
+                    "name": "Alejandro Amen\u00e1bar"
+                }
+            ]
+        }
+    },
+    {
+        "title": "219. Ju-on: The Grudge",
+        "url": "https://www.imdb.com/title/tt0364385/",
+        "description": {
+            "@type": "Movie",
+            "name": "Ju-on",
+            "description": "A mysterious and vengeful spirit marks and pursues anybody who dares enter the house in which it resides.",
+            "aggregateRating": {
+                "ratingValue": 6.7
+            },
+            "genre": [
+                "Horror"
+            ],
+            "datePublished": "2003-01-25",
+            "director": [
+                {
+                    "name": "Takashi Shimizu"
+                }
+            ]
+        }
+    },
+    {
+        "title": "220. House of Usher",
+        "url": "https://www.imdb.com/title/tt0053925/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Fall of the House of Usher",
+            "description": "Upon entering his fianc\u00e9e&apos;s family mansion, a man discovers a savage family curse and fears that his future brother-in-law has entombed his bride-to-be prematurely.",
+            "aggregateRating": {
+                "ratingValue": 6.9
+            },
+            "genre": [
+                "Drama",
+                "Horror"
+            ],
+            "datePublished": "1960-09-23",
+            "director": [
+                {
+                    "name": "Roger Corman"
+                }
+            ]
+        }
+    },
+    {
+        "title": "221. Attack the Block",
+        "url": "https://www.imdb.com/title/tt1478964/",
+        "description": {
+            "@type": "Movie",
+            "name": "Attack the Block",
+            "description": "A teen gang in South London defend their block from an alien invasion.",
+            "aggregateRating": {
+                "ratingValue": 6.7
+            },
+            "genre": [
+                "Action",
+                "Adventure",
+                "Comedy"
+            ],
+            "datePublished": "2011-05-13",
+            "director": [
+                {
+                    "name": "Joe Cornish"
+                }
+            ]
+        }
+    },
+    {
+        "title": "222. The Dentist",
+        "url": "https://www.imdb.com/title/tt0116075/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Dentist",
+            "description": "An extremely successful dentist goes off the deep end after he catches his wife cheating on him.",
+            "aggregateRating": {
+                "ratingValue": 5.4
+            },
+            "genre": [
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": "1996-10-18",
+            "director": [
+                {
+                    "name": "Brian Yuzna"
+                }
+            ]
+        }
+    },
+    {
+        "title": "223. Raw",
+        "url": "https://www.imdb.com/title/tt4954522/",
+        "description": {
+            "@type": "Movie",
+            "name": "Grave",
+            "description": "A young woman, studying to be a vet, develops a craving for human flesh.",
+            "aggregateRating": {
+                "ratingValue": 6.9
+            },
+            "genre": [
+                "Drama",
+                "Horror"
+            ],
+            "datePublished": "2017-03-15",
+            "director": [
+                {
+                    "name": "Julia Ducournau"
+                }
+            ]
+        }
+    },
+    {
+        "title": "224. Hell Night",
+        "url": "https://www.imdb.com/title/tt0082511/",
+        "description": {
+            "@type": "Movie",
+            "name": "Hell Night",
+            "description": "Four college fraternity and sorority pledges spend the night in a deserted old mansion as part of a hazing ritual during hell night, where they are stalked by the only survivor of a family massacre from the mansion&apos;s sordid past.",
+            "aggregateRating": {
+                "ratingValue": 5.6
+            },
+            "genre": [
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": "1981-08-28",
+            "director": [
+                {
+                    "name": "Tom DeSimone"
+                }
+            ]
+        }
+    },
+    {
+        "title": "225. Dr. Jekyll and Mr. Hyde",
+        "url": "https://www.imdb.com/title/tt0022835/",
+        "description": {
+            "@type": "Movie",
+            "name": "Dr. Jekyll and Mr. Hyde",
+            "description": "Dr. Jekyll faces horrible consequences when he lets his dark side run wild with a potion that transforms him into the animalistic Mr. Hyde.",
+            "aggregateRating": {
+                "ratingValue": 7.6
+            },
+            "genre": [
+                "Horror",
+                "Sci-Fi"
+            ],
+            "datePublished": "1932-01-03",
+            "director": [
+                {
+                    "name": "Rouben Mamoulian"
+                }
+            ]
+        }
+    },
+    {
+        "title": "226. A Girl Walks Home Alone at Night",
+        "url": "https://www.imdb.com/title/tt2326554/",
+        "description": {
+            "@type": "Movie",
+            "name": "A Girl Walks Home Alone at Night",
+            "description": "In the Iranian ghost-town Bad City, a place that reeks of death and loneliness, the townspeople are unaware they are being stalked by a lonesome vampire.",
+            "aggregateRating": {
+                "ratingValue": 6.9
+            },
+            "genre": [
+                "Drama",
+                "Horror",
+                "Romance"
+            ],
+            "datePublished": "2015-04-20",
+            "director": [
+                {
+                    "name": "Ana Lily Amirpour"
+                }
+            ]
+        }
+    },
+    {
+        "title": "227. Death of a Ghost Hunter",
+        "url": "https://www.imdb.com/title/tt1160317/",
+        "description": {
+            "@type": "Movie",
+            "name": "Death of a Ghost Hunter",
+            "description": "Renowned &quot;ghost hunter&quot;, Carter Simms is paid to conduct a paranormal investigation of a supposedly haunted house. Along with a cameraman, a reporter, and a spiritual advocate, she embarks on a three night journey into terror.",
+            "aggregateRating": {
+                "ratingValue": 4.3
+            },
+            "genre": [
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": "2007-10-28",
+            "director": [
+                {
+                    "name": "Sean Tretta"
+                }
+            ]
+        }
+    },
+    {
+        "title": "228. Tale of Tales",
+        "url": "https://www.imdb.com/title/tt3278330/",
+        "description": {
+            "@type": "Movie",
+            "name": "Il racconto dei racconti - Tale of Tales",
+            "description": "From the bitter quest of the Queen of Longtrellis, to two mysterious sisters who provoke the passion of a king, to the King of Highhills obsessed with a giant Flea, these tales are inspired by the fairytales by Giambattista Basile.",
+            "aggregateRating": {
+                "ratingValue": 6.4
+            },
+            "genre": [
+                "Drama",
+                "Fantasy",
+                "Horror"
+            ],
+            "datePublished": "2015-05-14",
+            "director": [
+                {
+                    "name": "Matteo Garrone"
+                }
+            ]
+        }
+    },
+    {
+        "title": "229. Session 9",
+        "url": "https://www.imdb.com/title/tt0261983/",
+        "description": {
+            "@type": "Movie",
+            "name": "Session 9",
+            "description": "Tensions rise within an asbestos cleaning crew as they work in an abandoned mental hospital with a horrific past that seems to be coming back.",
+            "aggregateRating": {
+                "ratingValue": 6.4
+            },
+            "genre": [
+                "Drama",
+                "Horror",
+                "Mystery"
+            ],
+            "datePublished": "2001-09-14",
+            "director": [
+                {
+                    "name": "Brad Anderson"
+                }
+            ]
+        }
+    },
+    {
+        "title": "230. Theater of Blood",
+        "url": "https://www.imdb.com/title/tt0070791/",
+        "description": {
+            "@type": "Movie",
+            "name": "Theatre of Blood",
+            "description": "A Shakespearean actor takes poetic revenge on the critics who denied him recognition.",
+            "aggregateRating": {
+                "ratingValue": 7.1
+            },
+            "genre": [
+                "Comedy",
+                "Drama",
+                "Horror"
+            ],
+            "datePublished": "1973-06-07",
+            "director": [
+                {
+                    "name": "Douglas Hickox"
+                }
+            ]
+        }
+    },
+    {
+        "title": "231. The Invitation",
+        "url": "https://www.imdb.com/title/tt2400463/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Invitation",
+            "description": "When a man accepts an invitation to a dinner party hosted by his ex-wife, the unsettling past reopens old wounds and creates new tensions.",
+            "aggregateRating": {
+                "ratingValue": 6.6
+            },
+            "genre": [
+                "Drama",
+                "Horror",
+                "Mystery"
+            ],
+            "datePublished": "2017-10-04",
+            "director": [
+                {
+                    "name": "Karyn Kusama"
+                }
+            ]
+        }
+    },
+    {
+        "title": "232. Ringu",
+        "url": "https://www.imdb.com/title/tt0178868/",
+        "description": {
+            "@type": "Movie",
+            "name": "Ringu",
+            "description": "When her niece is found dead along with three friends after viewing a supposedly cursed videotape, reporter Reiko sets out to investigate. She finds the tape, watches it and receives a phone call informing her that she&apos;ll die in a...",
+            "aggregateRating": {
+                "ratingValue": 7.2
+            },
+            "genre": [
+                "Horror",
+                "Mystery"
+            ],
+            "datePublished": "1998-01-31",
+            "director": [
+                {
+                    "name": "Hideo Nakata"
+                }
+            ]
+        }
+    },
+    {
+        "title": "233. Open Water",
+        "url": "https://www.imdb.com/title/tt0374102/",
+        "description": {
+            "@type": "Movie",
+            "name": "Open Water",
+            "description": "Based on the true story of two scuba divers accidentally stranded in shark infested waters after their tour boat has left.",
+            "aggregateRating": {
+                "ratingValue": 5.8
+            },
+            "genre": [
+                "Adventure",
+                "Drama",
+                "Horror"
+            ],
+            "datePublished": "2020-11-14",
+            "director": [
+                {
+                    "name": "Chris Kentis"
+                }
+            ]
+        }
+    },
+    {
+        "title": "234. Grace",
+        "url": "https://www.imdb.com/title/tt1220213/",
+        "description": {
+            "@type": "Movie",
+            "name": "Grace",
+            "description": "After losing her unborn child, Madeline Matheson insists on carrying the baby to term. Following the delivery, the child miraculously returns to life with an appetite for human blood. Madeline is faced with a mother&apos;s ultimate dec...",
+            "aggregateRating": {
+                "ratingValue": 5.2
+            },
+            "genre": [
+                "Drama",
+                "Horror",
+                "Thriller"
+            ],
+            "datePublished": "2009-09-15",
+            "director": [
+                {
+                    "name": "Paul Solet"
+                }
+            ]
+        }
+    },
+    {
+        "title": "235. Freaks",
+        "url": "https://www.imdb.com/title/tt0022913/",
+        "description": {
+            "@type": "Movie",
+            "name": "Freaks",
+            "description": "A circus&apos; beautiful trapeze artist Cleopatra agrees to marry Hans the leader of side-show performers, but Hans&apos; deformed friends discover that she is only marrying him for his inheritance. So they seek revenge.",
+            "aggregateRating": {
+                "ratingValue": 7.8
+            },
+            "genre": [
+                "Drama",
+                "Horror"
+            ],
+            "datePublished": "1932-02-20",
+            "director": [
+                {
+                    "name": "Tod Browning"
+                }
+            ]
+        }
+    },
+    {
+        "title": "236. The Loved Ones",
+        "url": "https://www.imdb.com/title/tt1316536/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Loved Ones",
+            "description": "When Brent turns down his classmate Lola&apos;s invitation to the prom, she concocts a wildly violent plan for revenge.",
+            "aggregateRating": {
+                "ratingValue": 6.6
+            },
+            "genre": [
+                "Crime",
+                "Horror"
+            ],
+            "datePublished": "2010-11-04",
+            "director": [
+                {
+                    "name": "Sean Byrne"
+                }
+            ]
+        }
+    },
+    {
+        "title": "237. Amusement",
+        "url": "https://www.imdb.com/title/tt0476958/",
+        "description": {
+            "@type": "Movie",
+            "name": "Amusement",
+            "description": "Three women are stalked by a killer with a grudge that extends back to the girls&apos; childhoods.",
+            "aggregateRating": {
+                "ratingValue": 4.9
+            },
+            "genre": [
+                "Crime",
+                "Horror",
+                "Mystery"
+            ],
+            "datePublished": "2008-10-09",
+            "director": [
+                {
+                    "name": "John Simpson"
+                }
+            ]
+        }
+    },
+    {
+        "title": "238. The Witch",
+        "url": "https://www.imdb.com/title/tt4263482/",
+        "description": {
+            "@type": "Movie",
+            "name": "The VVitch: A New-England Folktale",
+            "description": "An isolated Puritan family in 1630s New England comes unraveled by the forces of witchcraft and possession.",
+            "aggregateRating": {
+                "ratingValue": 7
+            },
+            "genre": [
+                "Drama",
+                "Fantasy",
+                "Horror"
+            ],
+            "datePublished": "2020-11-16",
+            "director": [
+                {
+                    "name": "Robert Eggers"
+                }
+            ]
+        }
+    },
+    {
+        "title": "239. Happy Death Day",
+        "url": "https://www.imdb.com/title/tt5308322/",
+        "description": {
+            "@type": "Movie",
+            "name": "Happy Death Day",
+            "description": "A college student must relive the day of her murder over and over again, in a loop that will end only when she discovers her killer&apos;s identity.",
+            "aggregateRating": {
+                "ratingValue": 6.6
+            },
+            "genre": [
+                "Comedy",
+                "Horror",
+                "Mystery"
+            ],
+            "datePublished": "2019-11-28",
+            "director": [
+                {
+                    "name": "Christopher Landon"
+                }
+            ]
+        }
+    },
+    {
+        "title": "240. The Thing from Another World",
+        "url": "https://www.imdb.com/title/tt0044121/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Thing from Another World",
+            "description": "Scientists and American Air Force officials fend off a bloodthirsty alien organism while at a remote arctic outpost.",
+            "aggregateRating": {
+                "ratingValue": 7.1
+            },
+            "genre": [
+                "Horror",
+                "Sci-Fi"
+            ],
+            "datePublished": "1951-04-07",
+            "director": [
+                {
+                    "name": "Christian Nyby"
+                },
+                {
+                    "name": "Howard Hawks"
+                }
+            ]
+        }
+    },
+    {
+        "title": "240. Little Shop of Horrors",
+        "url": "https://www.imdb.com/title/tt0091419/",
+        "description": {
+            "@type": "Movie",
+            "name": "Little Shop of Horrors",
+            "description": "A nerdy florist finds his chance for success and romance with the help of a giant man-eating plant who demands to be fed.",
+            "aggregateRating": {
+                "ratingValue": 7.1
+            },
+            "genre": [
+                "Comedy",
+                "Horror",
+                "Musical"
+            ],
+            "datePublished": "2013-11-19",
+            "director": [
+                {
+                    "name": "Frank Oz"
+                }
+            ]
+        }
+    },
+    {
+        "title": "242. Burnt Offerings",
+        "url": "https://www.imdb.com/title/tt0074258/",
+        "description": {
+            "@type": "Movie",
+            "name": "Burnt Offerings",
+            "description": "A family moves into a large old mansion in the countryside which seems to have a mysterious and sinister power over its new residents.",
+            "aggregateRating": {
+                "ratingValue": 6.4
+            },
+            "genre": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "datePublished": "1976-10-18",
+            "director": [
+                {
+                    "name": "Dan Curtis"
+                }
+            ]
+        }
+    },
+    {
+        "title": "243. Guyver",
+        "url": "https://www.imdb.com/title/tt0101988/",
+        "description": {
+            "@type": "Movie",
+            "name": "Guyver",
+            "description": "Young man merges with mechanical device, becoming cyborg superhero. Strange creatures emerge, seeking to reclaim device. He uncovers plot to genetically engineer monstrous creatures.",
+            "aggregateRating": {
+                "ratingValue": 4.9
+            },
+            "genre": [
+                "Action",
+                "Comedy",
+                "Horror"
+            ],
+            "datePublished": "1992-06-03",
+            "director": [
+                {
+                    "name": "Screaming Mad George"
+                },
+                {
+                    "name": "Steve Wang"
+                }
+            ]
+        }
+    },
+    {
+        "title": "244. Attack of the Killer Tomatoes!",
+        "url": "https://www.imdb.com/title/tt0080391/",
+        "description": {
+            "@type": "Movie",
+            "name": "Attack of the Killer Tomatoes!",
+            "description": "A group of scientists band together to save the world from mutated killer tomatoes.",
+            "aggregateRating": {
+                "ratingValue": 4.6
+            },
+            "genre": [
+                "Adventure",
+                "Comedy",
+                "Horror"
+            ],
+            "datePublished": "1978-10-04",
+            "director": [
+                {
+                    "name": "John De Bello"
+                }
+            ]
+        }
+    },
+    {
+        "title": "245. I Walked with a Zombie",
+        "url": "https://www.imdb.com/title/tt0036027/",
+        "description": {
+            "@type": "Movie",
+            "name": "I Walked with a Zombie",
+            "description": "A nurse is hired to care for the wife of a sugar plantation owner, who has been acting strangely, on a Caribbean island.",
+            "aggregateRating": {
+                "ratingValue": 7
+            },
+            "genre": [
+                "Drama",
+                "Fantasy",
+                "Horror"
+            ],
+            "datePublished": "1943-04-30",
+            "director": [
+                {
+                    "name": "Jacques Tourneur"
+                }
+            ]
+        }
+    },
+    {
+        "title": "246. Lake Mungo",
+        "url": "https://www.imdb.com/title/tt0816556/",
+        "description": {
+            "@type": "Movie",
+            "name": "Lake Mungo",
+            "description": "Strange things start happening after a girl is found drowned in a lake.",
+            "aggregateRating": {
+                "ratingValue": 6.2
+            },
+            "genre": [
+                "Drama",
+                "Horror",
+                "Mystery"
+            ],
+            "datePublished": "2008-06-18",
+            "director": [
+                {
+                    "name": "Joel Anderson"
+                }
+            ]
+        }
+    },
+    {
+        "title": "247. The Rite",
+        "url": "https://www.imdb.com/title/tt1161864/",
+        "description": {
+            "@type": "Movie",
+            "name": "The Rite",
+            "description": "American seminary student Michael Kovak travels to Italy to take an exorcism course.",
+            "aggregateRating": {
+                "ratingValue": 6
+            },
+            "genre": [
+                "Drama",
+                "Horror",
+                "Mystery"
+            ],
+            "datePublished": "2011-01-28",
+            "director": [
+                {
+                    "name": "Mikael H\u00e5fstr\u00f6m"
+                }
+            ]
+        }
+    },
+    {
+        "title": "248. Hereditary",
+        "url": "https://www.imdb.com/title/tt7784604/",
+        "description": {
+            "@type": "Movie",
+            "name": "Hereditary",
+            "description": "A grieving family is haunted by tragic and disturbing occurrences.",
+            "aggregateRating": {
+                "ratingValue": 7.3
+            },
+            "genre": [
+                "Drama",
+                "Horror",
+                "Mystery"
+            ],
+            "datePublished": "2018-06-22",
+            "director": [
+                {
+                    "name": "Ari Aster"
+                }
+            ]
+        }
+    },
+    {
+        "title": "249. Midsommar",
+        "url": "https://www.imdb.com/title/tt8772262/",
+        "description": {
+            "@type": "Movie",
+            "name": "Midsommar",
+            "description": "A couple travels to Northern Europe to visit a rural hometown&apos;s fabled Swedish mid-summer festival. What begins as an idyllic retreat quickly devolves into an increasingly violent and bizarre competition at the hands of a pagan cult.",
+            "aggregateRating": {
+                "ratingValue": 7.1
+            },
+            "genre": [
+                "Drama",
+                "Horror",
+                "Mystery"
+            ],
+            "datePublished": "2019-07-03",
+            "director": [
+                {
+                    "name": "Ari Aster"
+                }
+            ]
+        }
+    },
+    {
+        "title": "250. The Cabinet of Dr. Caligari",
+        "url": "https://www.imdb.com/title/tt0010323/",
+        "description": {
+            "@type": "Movie",
+            "name": "Das Cabinet des Dr. Caligari",
+            "description": "Hypnotist Dr. Caligari uses a somnambulist, Cesare, to commit murders.",
+            "aggregateRating": {
+                "ratingValue": 8
+            },
+            "genre": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "datePublished": "1920-02-27",
+            "director": [
+                {
+                    "name": "Robert Wiene"
+                }
+            ]
+        }
+    }
+]
